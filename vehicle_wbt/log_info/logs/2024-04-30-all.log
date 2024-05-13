@@ -1,0 +1,799 @@
+2024-04-30 14:45:10,167-camera.py-[line:51]-ERROR-[log]:摄像头/dev/cam2不存在
+2024-04-30 14:45:11,169-camera.py-[line:51]-ERROR-[log]:摄像头/dev/cam2不存在
+2024-04-30 14:45:12,171-camera.py-[line:51]-ERROR-[log]:摄像头/dev/cam2不存在
+2024-04-30 14:45:13,172-camera.py-[line:51]-ERROR-[log]:摄像头/dev/cam2不存在
+2024-04-30 14:46:38,622-camera.py-[line:108]-INFO-[log]:/dev/cam2 close
+2024-04-30 15:07:09,756-camera.py-[line:108]-INFO-[log]:/dev/cam2 close
+2024-04-30 15:20:43,350-camera.py-[line:108]-INFO-[log]:/dev/cam2 close
+2024-04-30 15:46:17,196-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:46:20,825-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:46:24,604-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:46:41,935-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:47:17,006-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:47:17,053-vehicle_base2.py-[line:492]-INFO-[log]:mecanum init
+2024-04-30 15:47:18,788-vehicle_base2.py-[line:372]-WARNING-[log]:timeout
+2024-04-30 15:47:21,306-vehicle_base2.py-[line:372]-WARNING-[log]:timeout
+2024-04-30 15:47:23,824-vehicle_base2.py-[line:372]-WARNING-[log]:timeout
+2024-04-30 15:48:37,007-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:48:37,054-vehicle_base2.py-[line:492]-INFO-[log]:mecanum init
+2024-04-30 15:48:40,620-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:48:40,667-vehicle_base2.py-[line:492]-INFO-[log]:mecanum init
+2024-04-30 15:49:34,659-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:49:34,707-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 15:49:49,362-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:49:49,405-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 15:50:03,268-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:50:03,315-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 15:50:59,967-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:02,457-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:04,651-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:06,264-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:08,125-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:09,323-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:10,429-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:11,035-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:13,196-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:18,555-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-04-30 15:51:27,362-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:51:27,410-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 15:53:13,639-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:53:13,877-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:53:14,497-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 15:53:14,708-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2116541862487793
+2024-04-30 15:54:32,460-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:54:32,683-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:54:33,210-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 15:54:33,422-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21216058731079102
+2024-04-30 15:57:24,684-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:57:24,908-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:57:25,439-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 15:57:25,651-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21239638328552246
+2024-04-30 15:57:28,647-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-04-30 15:57:28,741-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-04-30 15:58:59,915-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:59:00,139-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 15:59:00,765-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 15:59:00,976-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21103525161743164
+2024-04-30 15:59:03,942-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-04-30 15:59:04,017-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-04-30 15:59:31,931-infer_front.py-[line:123]-INFO-[log]:
+2024-04-30 15:59:31,937-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-04-30 15:59:31,938-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-04-30 15:59:32,035-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-04-30 15:59:32,035-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-04-30 15:59:32,102-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-04-30 15:59:32,103-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-04-30 15:59:32,171-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-04-30 15:59:32,171-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-04-30 15:59:32,237-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-04-30 15:59:32,238-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-04-30 15:59:32,303-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-04-30 15:59:32,669-car_wrap.py-[line:636]-INFO-[log]:4
+2024-04-30 15:59:32,670-car_wrap.py-[line:638]-INFO-[log]:['grap_block_func', 'release_block_func', 'get_ball_func', 'elevation_pole_func', 'get_high_ball_func', 'pull_ball_func', 'hanoi_tower_func', 'camp_fun', 'find_criminal', 'go_start', 'all_task', 'lane_test', 'reset', 'debug']
+2024-04-30 16:00:09,349-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 16:00:09,572-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-04-30 16:00:10,281-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-04-30 16:00:10,491-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2106471061706543
+2024-04-30 16:00:13,458-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-04-30 16:00:13,563-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-04-30 16:00:13,563-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-04-30 16:00:13,631-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-04-30 16:00:13,632-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-04-30 16:00:13,698-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-04-30 16:00:13,698-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-04-30 16:00:13,764-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-04-30 16:00:13,764-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-04-30 16:00:13,831-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-04-30 16:00:13,831-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-04-30 16:00:13,896-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-04-30 16:00:14,260-car_wrap.py-[line:636]-INFO-[log]:4
+2024-04-30 16:00:14,260-car_wrap.py-[line:638]-INFO-[log]:['grap_block_func', 'release_block_func', 'get_ball_func', 'elevation_pole_func', 'get_high_ball_func', 'pull_ball_func', 'hanoi_tower_func', 'camp_fun', 'find_criminal', 'go_start', 'all_task', 'lane_test', 'reset', 'debug']
+2024-04-30 16:00:15,971-car_wrap.py-[line:719]-INFO-[log]:pull_ball_func
+2024-04-30 16:00:17,490-car_wrap.py-[line:719]-INFO-[log]:hanoi_tower_func
+2024-04-30 16:00:18,265-car_wrap.py-[line:719]-INFO-[log]:pull_ball_func
+2024-04-30 16:00:19,178-car_wrap.py-[line:719]-INFO-[log]:get_high_ball_func
+2024-04-30 16:00:19,728-car_wrap.py-[line:719]-INFO-[log]:elevation_pole_func
+2024-04-30 16:00:20,245-car_wrap.py-[line:719]-INFO-[log]:get_ball_func
+2024-04-30 16:00:20,814-car_wrap.py-[line:719]-INFO-[log]:release_block_func
+2024-04-30 16:00:21,359-car_wrap.py-[line:719]-INFO-[log]:grap_block_func
+2024-04-30 16:00:22,271-car_wrap.py-[line:719]-INFO-[log]:debug
+2024-04-30 16:00:25,899-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:25,900-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:25,900-car_wrap.py-[line:599]-INFO-[log]:error:0.00011778326006606221 angle0.006148117128759623
+2024-04-30 16:00:25,900-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:25,900-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:25,900-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7231519222259521, 0.415625, -0.37916666666666665, 1.16875, 1.2416666666666667]]
+2024-04-30 16:00:25,907-car_wrap.py-[line:603]-INFO-[log]:left:1804 right:1554
+2024-04-30 16:00:26,674-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:26,674-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:26,674-car_wrap.py-[line:599]-INFO-[log]:error:0.00012711534509435296 angle0.0062313382513821125
+2024-04-30 16:00:26,674-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:26,674-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:26,675-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7264477014541626, 0.409375, -0.37916666666666665, 1.1625, 1.2333333333333334]]
+2024-04-30 16:00:26,681-car_wrap.py-[line:603]-INFO-[log]:left:832 right:974
+2024-04-30 16:00:27,411-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:27,411-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:27,412-car_wrap.py-[line:599]-INFO-[log]:error:0.00011624273611232638 angle0.005752333905547857
+2024-04-30 16:00:27,412-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:27,412-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:27,412-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7978956699371338, 0.39375, -0.37916666666666665, 1.175, 1.2416666666666667]]
+2024-04-30 16:00:27,418-car_wrap.py-[line:603]-INFO-[log]:left:1941 right:972
+2024-04-30 16:00:28,148-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:28,149-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:28,149-car_wrap.py-[line:599]-INFO-[log]:error:0.00010965700494125485 angle0.006737786810845137
+2024-04-30 16:00:28,149-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:28,149-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:28,149-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7914099097251892, 0.39375, -0.38125, 1.175, 1.2375]]
+2024-04-30 16:00:28,155-car_wrap.py-[line:603]-INFO-[log]:left:1828 right:914
+2024-04-30 16:00:28,885-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:28,885-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:28,886-car_wrap.py-[line:599]-INFO-[log]:error:9.917357238009572e-05 angle0.00758114131167531
+2024-04-30 16:00:28,886-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:28,886-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:28,886-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7640619874000549, 0.2984375, -0.37916666666666665, 1.178125, 1.2416666666666667]]
+2024-04-30 16:00:28,892-car_wrap.py-[line:603]-INFO-[log]:left:903 right:943
+2024-04-30 16:00:29,621-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:29,622-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:29,622-car_wrap.py-[line:599]-INFO-[log]:error:8.48582130856812e-05 angle0.008242228999733925
+2024-04-30 16:00:29,622-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:29,622-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:29,622-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.8017796277999878, 0.2609375, -0.3770833333333333, 1.178125, 1.2458333333333333]]
+2024-04-30 16:00:29,628-car_wrap.py-[line:603]-INFO-[log]:left:1794 right:1549
+2024-04-30 16:00:30,358-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:30,358-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:30,358-car_wrap.py-[line:599]-INFO-[log]:error:9.834178490564227e-05 angle0.007808716502040625
+2024-04-30 16:00:30,359-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:30,359-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:30,359-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7840284109115601, 0.2578125, -0.3729166666666667, 1.184375, 1.2541666666666667]]
+2024-04-30 16:00:30,366-car_wrap.py-[line:603]-INFO-[log]:left:961 right:1355
+2024-04-30 16:00:31,100-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:31,100-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:31,100-car_wrap.py-[line:599]-INFO-[log]:error:9.522278560325503e-05 angle0.007914168760180473
+2024-04-30 16:00:31,101-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:31,101-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:31,101-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7573971152305603, 0.2609375, -0.37083333333333335, 1.184375, 1.2583333333333333]]
+2024-04-30 16:00:31,107-car_wrap.py-[line:603]-INFO-[log]:left:1768 right:813
+2024-04-30 16:00:31,836-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:31,836-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:31,836-car_wrap.py-[line:599]-INFO-[log]:error:9.632081491872668e-05 angle0.008006714284420013
+2024-04-30 16:00:31,836-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:31,837-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:31,837-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7431868314743042, 0.3109375, -0.40208333333333335, 1.134375, 1.1958333333333333]]
+2024-04-30 16:00:31,842-car_wrap.py-[line:603]-INFO-[log]:left:1256 right:1447
+2024-04-30 16:00:32,572-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:32,572-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:32,573-car_wrap.py-[line:599]-INFO-[log]:error:8.914381032809615e-05 angle0.006910535041242838
+2024-04-30 16:00:32,573-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:32,573-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:32,573-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7480406165122986, 0.3921875, -0.4354166666666667, 1.059375, 1.1291666666666667]]
+2024-04-30 16:00:32,578-car_wrap.py-[line:603]-INFO-[log]:left:1424 right:1401
+2024-04-30 16:00:33,309-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:33,309-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:33,309-car_wrap.py-[line:599]-INFO-[log]:error:0.00010562740499153733 angle0.007453638594597578
+2024-04-30 16:00:33,310-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:33,310-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:33,310-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7744743227958679, 0.3984375, -0.45208333333333334, 1.028125, 1.0958333333333334]]
+2024-04-30 16:00:33,316-car_wrap.py-[line:603]-INFO-[log]:left:1839 right:919
+2024-04-30 16:00:34,044-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:34,045-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:34,066-car_wrap.py-[line:599]-INFO-[log]:error:7.6265016105026e-05 angle0.0074801393784582615
+2024-04-30 16:00:34,066-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:34,066-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:34,067-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7942491173744202, 0.4015625, -0.45208333333333334, 1.028125, 1.0958333333333334]]
+2024-04-30 16:00:34,077-car_wrap.py-[line:603]-INFO-[log]:left:1635 right:1309
+2024-04-30 16:00:34,805-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:34,805-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:34,805-car_wrap.py-[line:599]-INFO-[log]:error:9.863747982308269e-05 angle0.007982688024640083
+2024-04-30 16:00:34,805-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:34,805-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:34,805-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.8656390309333801, 0.390625, -0.4125, 1.08125, 1.175]]
+2024-04-30 16:00:34,812-car_wrap.py-[line:603]-INFO-[log]:left:1208 right:633
+2024-04-30 16:00:35,540-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:35,540-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:35,541-car_wrap.py-[line:599]-INFO-[log]:error:9.08676884137094e-05 angle0.0076712085865437984
+2024-04-30 16:00:35,541-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:35,541-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:35,541-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.8020749092102051, 0.384375, -0.44166666666666665, 1.025, 1.1166666666666667]]
+2024-04-30 16:00:35,547-car_wrap.py-[line:603]-INFO-[log]:left:1810 right:635
+2024-04-30 16:00:36,276-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:36,276-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:36,276-car_wrap.py-[line:599]-INFO-[log]:error:9.949662489816546e-05 angle0.007502751890569925
+2024-04-30 16:00:36,276-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:36,277-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:36,277-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.8985385894775391, 0.428125, -0.40208333333333335, 1.1, 1.1958333333333333]]
+2024-04-30 16:00:36,283-car_wrap.py-[line:603]-INFO-[log]:left:1896 right:1123
+2024-04-30 16:00:37,013-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:37,014-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:37,014-car_wrap.py-[line:599]-INFO-[log]:error:0.00010128860594704747 angle0.007382406387478113
+2024-04-30 16:00:37,014-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:37,014-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:37,014-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.9459182024002075, 0.4328125, -0.39791666666666664, 1.115625, 1.2041666666666666]]
+2024-04-30 16:00:37,020-car_wrap.py-[line:603]-INFO-[log]:left:1890 right:1325
+2024-04-30 16:00:37,773-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:37,773-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:37,773-car_wrap.py-[line:599]-INFO-[log]:error:8.325249655172229e-05 angle0.007426172029227018
+2024-04-30 16:00:37,773-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:37,774-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.50092613697052, 0.3581730769230769, -0.5144230769230769, 0.9567307692307693, 1.0769230769230769]]
+2024-04-30 16:00:37,774-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.9326571822166443, 0.4328125, -0.3958333333333333, 1.121875, 1.2083333333333333]]
+2024-04-30 16:00:37,784-car_wrap.py-[line:603]-INFO-[log]:left:1805 right:802
+2024-04-30 16:00:38,516-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:38,516-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:38,516-car_wrap.py-[line:599]-INFO-[log]:error:9.459181455895305e-05 angle0.007651219610124826
+2024-04-30 16:00:38,516-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:38,516-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:38,516-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.9283315539360046, 0.43125, -0.3958333333333333, 1.125, 1.2083333333333333]]
+2024-04-30 16:00:38,523-car_wrap.py-[line:603]-INFO-[log]:left:1710 right:1447
+2024-04-30 16:00:39,252-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:39,252-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:39,252-car_wrap.py-[line:599]-INFO-[log]:error:9.53428098000586e-05 angle0.00824924185872078
+2024-04-30 16:00:39,252-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:39,252-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:39,253-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.9234709739685059, 0.43125, -0.39791666666666664, 1.125, 1.2041666666666666]]
+2024-04-30 16:00:39,258-car_wrap.py-[line:603]-INFO-[log]:left:1600 right:1498
+2024-04-30 16:00:39,985-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:39,985-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:39,985-car_wrap.py-[line:599]-INFO-[log]:error:9.44464118219912e-05 angle0.007946513593196869
+2024-04-30 16:00:39,985-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:39,986-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:39,986-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.8004974126815796, 0.3796875, -0.38958333333333334, 1.159375, 1.2208333333333334]]
+2024-04-30 16:00:39,992-car_wrap.py-[line:603]-INFO-[log]:left:1883 right:1274
+2024-04-30 16:00:40,719-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:40,720-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:40,720-car_wrap.py-[line:599]-INFO-[log]:error:0.00029546156292781234 angle0.0057564168237149715
+2024-04-30 16:00:40,720-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:40,720-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5616954565048218, 0.46153846153846156, -0.37740384615384615, 1.1153846153846154, 1.0625]]
+2024-04-30 16:00:40,720-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5589797496795654, 0.459375, -0.3958333333333333, 1.125, 1.2]]
+2024-04-30 16:00:40,726-car_wrap.py-[line:603]-INFO-[log]:left:1316 right:633
+2024-04-30 16:00:41,451-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:41,451-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:41,451-car_wrap.py-[line:599]-INFO-[log]:error:-0.0001375837018713355 angle-0.0010465452214702964
+2024-04-30 16:00:41,452-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:41,452-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.6136378645896912, 0.46875, -0.4254807692307692, 1.1105769230769231, 1.0144230769230769]]
+2024-04-30 16:00:41,452-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6001772880554199, 0.4640625, -0.4041666666666667, 1.109375, 1.1916666666666667]]
+2024-04-30 16:00:41,458-car_wrap.py-[line:603]-INFO-[log]:left:1376 right:620
+2024-04-30 16:00:42,187-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:42,187-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:42,187-car_wrap.py-[line:599]-INFO-[log]:error:5.638349102810025e-05 angle0.001448316965252161
+2024-04-30 16:00:42,188-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:42,188-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.6916911005973816, 0.47836538461538464, -0.43028846153846156, 1.0817307692307692, 1.0048076923076923]]
+2024-04-30 16:00:42,188-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5822396874427795, 0.475, -0.21458333333333332, 1.38125, 1.5708333333333333]]
+2024-04-30 16:00:42,195-car_wrap.py-[line:603]-INFO-[log]:left:952 right:1429
+2024-04-30 16:00:42,922-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:42,922-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:42,922-car_wrap.py-[line:599]-INFO-[log]:error:-5.3927942644804716e-05 angle-0.0038224495947360992
+2024-04-30 16:00:42,923-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:42,923-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.6962495446205139, 0.5072115384615384, -0.4495192307692308, 1.0240384615384615, 0.9855769230769231]]
+2024-04-30 16:00:42,923-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5707395672798157, 0.4703125, -0.17916666666666667, 1.378125, 1.6416666666666666]]
+2024-04-30 16:00:42,929-car_wrap.py-[line:603]-INFO-[log]:left:1845 right:870
+2024-04-30 16:00:43,655-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:43,655-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:43,656-car_wrap.py-[line:599]-INFO-[log]:error:-0.00013101735385134816 angle-0.004921277519315481
+2024-04-30 16:00:43,656-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:43,656-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5179563760757446, 0.47836538461538464, -0.42788461538461536, 1.1105769230769231, 1.0192307692307692]]
+2024-04-30 16:00:43,656-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5407012104988098, 0.4765625, -0.3875, 1.040625, 1.225]]
+2024-04-30 16:00:43,662-car_wrap.py-[line:603]-INFO-[log]:left:1309 right:567
+2024-04-30 16:00:44,387-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:44,388-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:44,388-car_wrap.py-[line:599]-INFO-[log]:error:-4.92163235321641e-06 angle-0.005529597867280245
+2024-04-30 16:00:44,388-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:44,388-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:44,388-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6493261456489563, 0.5046875, -0.4083333333333333, 0.996875, 1.1833333333333333]]
+2024-04-30 16:00:44,394-car_wrap.py-[line:603]-INFO-[log]:left:1724 right:603
+2024-04-30 16:00:45,125-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:45,126-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:45,126-car_wrap.py-[line:599]-INFO-[log]:error:0.00010011618724092841 angle-0.004802173934876919
+2024-04-30 16:00:45,126-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:45,126-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5009571313858032, 0.4543269230769231, -0.4110576923076923, 1.1586538461538463, 1.0336538461538463]]
+2024-04-30 16:00:45,126-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5434133410453796, 0.475, -0.24166666666666667, 1.2375, 1.5166666666666666]]
+2024-04-30 16:00:45,132-car_wrap.py-[line:603]-INFO-[log]:left:1681 right:557
+2024-04-30 16:00:45,861-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:45,862-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:45,862-car_wrap.py-[line:599]-INFO-[log]:error:6.980326725170016e-05 angle-0.0031849760562181473
+2024-04-30 16:00:45,862-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:45,862-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5353293418884277, 0.47596153846153844, -0.4182692307692308, 1.1057692307692308, 1.0480769230769231]]
+2024-04-30 16:00:45,862-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6374157667160034, 0.4703125, -0.3875, 1.015625, 1.225]]
+2024-04-30 16:00:45,868-car_wrap.py-[line:603]-INFO-[log]:left:1916 right:1460
+2024-04-30 16:00:46,596-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:46,597-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:46,597-car_wrap.py-[line:599]-INFO-[log]:error:-8.221488678827882e-05 angle-0.0030482555739581585
+2024-04-30 16:00:46,597-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:46,597-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5696428418159485, 0.47596153846153844, -0.41346153846153844, 1.1057692307692308, 1.0480769230769231]]
+2024-04-30 16:00:46,597-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5234349966049194, 0.4671875, -0.22291666666666668, 1.246875, 1.5541666666666667]]
+2024-04-30 16:00:46,603-car_wrap.py-[line:603]-INFO-[log]:left:1249 right:1407
+2024-04-30 16:00:47,332-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:47,333-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:47,333-car_wrap.py-[line:599]-INFO-[log]:error:-0.00012762617552652955 angle-0.0024832324124872684
+2024-04-30 16:00:47,333-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:47,333-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5907123684883118, 0.47836538461538464, -0.41586538461538464, 1.1009615384615385, 1.0625]]
+2024-04-30 16:00:47,333-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.654302716255188, 0.4640625, -0.3854166666666667, 1.009375, 1.2291666666666667]]
+2024-04-30 16:00:47,339-car_wrap.py-[line:603]-INFO-[log]:left:1094 right:787
+2024-04-30 16:00:48,072-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:48,072-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:48,072-car_wrap.py-[line:599]-INFO-[log]:error:-8.561823051422834e-05 angle-0.0013461817288771272
+2024-04-30 16:00:48,073-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:48,073-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5656578540802002, 0.47836538461538464, -0.41586538461538464, 1.1009615384615385, 1.0528846153846154]]
+2024-04-30 16:00:48,073-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6617613434791565, 0.4640625, -0.4041666666666667, 0.990625, 1.1916666666666667]]
+2024-04-30 16:00:48,079-car_wrap.py-[line:603]-INFO-[log]:left:834 right:1105
+2024-04-30 16:00:48,810-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:48,811-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:48,811-car_wrap.py-[line:599]-INFO-[log]:error:7.653870852664113e-05 angle-0.0026864137034863234
+2024-04-30 16:00:48,811-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:48,811-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:48,812-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5144922137260437, 0.46875, -0.2625, 1.19375, 1.475]]
+2024-04-30 16:00:48,817-car_wrap.py-[line:603]-INFO-[log]:left:1065 right:776
+2024-04-30 16:00:49,550-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:49,551-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:49,551-car_wrap.py-[line:599]-INFO-[log]:error:4.1296647395938635e-05 angle-0.004016372375190258
+2024-04-30 16:00:49,551-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:49,551-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:49,551-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5649705529212952, 0.46875, -0.23333333333333334, 1.2125, 1.5333333333333334]]
+2024-04-30 16:00:49,558-car_wrap.py-[line:603]-INFO-[log]:left:800 right:1126
+2024-04-30 16:00:50,287-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:50,287-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:50,288-car_wrap.py-[line:599]-INFO-[log]:error:2.0333798602223396e-05 angle-0.002986638806760311
+2024-04-30 16:00:50,288-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:50,288-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:50,288-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.526272177696228, 0.471875, -0.3770833333333333, 1.0, 1.2458333333333333]]
+2024-04-30 16:00:50,295-car_wrap.py-[line:603]-INFO-[log]:left:1903 right:1431
+2024-04-30 16:00:51,030-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:51,030-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:51,031-car_wrap.py-[line:599]-INFO-[log]:error:-0.00014867325080558658 angle-0.0008057120721787214
+2024-04-30 16:00:51,031-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:51,031-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:51,031-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6476123332977295, 0.4671875, -0.23541666666666666, 1.190625, 1.5208333333333333]]
+2024-04-30 16:00:51,037-car_wrap.py-[line:603]-INFO-[log]:left:1867 right:1367
+2024-04-30 16:00:51,769-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:51,769-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:51,769-car_wrap.py-[line:599]-INFO-[log]:error:-0.0001316883135586977 angle-0.0003440501168370247
+2024-04-30 16:00:51,770-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:51,770-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:51,770-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5420753955841064, 0.4796875, -0.28541666666666665, 1.096875, 1.4125]]
+2024-04-30 16:00:51,776-car_wrap.py-[line:603]-INFO-[log]:left:1581 right:1559
+2024-04-30 16:00:52,508-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:52,508-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:52,509-car_wrap.py-[line:599]-INFO-[log]:error:-0.00036847899900749326 angle-0.002689263317734003
+2024-04-30 16:00:52,509-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:52,509-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5064775943756104, 0.4519230769230769, -0.4110576923076923, 1.1442307692307692, 1.0528846153846154]]
+2024-04-30 16:00:52,509-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5887144207954407, 0.478125, -0.39166666666666666, 0.9625, 1.2083333333333333]]
+2024-04-30 16:00:52,515-car_wrap.py-[line:603]-INFO-[log]:left:1801 right:663
+2024-04-30 16:00:53,243-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:53,243-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:53,243-car_wrap.py-[line:599]-INFO-[log]:error:-7.123843533918262e-05 angle0.0048010810278356075
+2024-04-30 16:00:53,244-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:53,244-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5056895017623901, 0.44471153846153844, -0.41346153846153844, 1.1682692307692308, 1.0480769230769231]]
+2024-04-30 16:00:53,244-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.550514817237854, 0.4703125, -0.40208333333333335, 0.965625, 1.1875]]
+2024-04-30 16:00:53,250-car_wrap.py-[line:603]-INFO-[log]:left:1842 right:1052
+2024-04-30 16:00:53,977-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:53,977-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:53,977-car_wrap.py-[line:599]-INFO-[log]:error:-4.908809205517173e-05 angle0.0004130410961806774
+2024-04-30 16:00:53,978-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:53,978-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:53,978-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5849143862724304, 0.475, -0.40625, 0.975, 1.1791666666666667]]
+2024-04-30 16:00:53,984-car_wrap.py-[line:603]-INFO-[log]:left:804 right:1336
+2024-04-30 16:00:54,717-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:54,718-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:54,718-car_wrap.py-[line:599]-INFO-[log]:error:-0.0001375192659907043 angle0.0029074973426759243
+2024-04-30 16:00:54,718-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:54,718-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5876348614692688, 0.46153846153846156, -0.40865384615384615, 1.1346153846153846, 1.0480769230769231]]
+2024-04-30 16:00:54,718-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6107853055000305, 0.4765625, -0.40625, 0.984375, 1.1791666666666667]]
+2024-04-30 16:00:54,724-car_wrap.py-[line:603]-INFO-[log]:left:1001 right:1380
+2024-04-30 16:00:55,454-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:55,455-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:55,455-car_wrap.py-[line:599]-INFO-[log]:error:-0.00031526421662420034 angle0.03622623533010483
+2024-04-30 16:00:55,455-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:55,455-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5352484583854675, 0.4567307692307692, -0.41346153846153844, 1.1442307692307692, 1.0576923076923077]]
+2024-04-30 16:00:55,455-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5702012777328491, 0.475, -0.25, 1.20625, 1.4916666666666667]]
+2024-04-30 16:00:55,461-car_wrap.py-[line:603]-INFO-[log]:left:1751 right:651
+2024-04-30 16:00:56,188-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:56,189-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:56,189-car_wrap.py-[line:599]-INFO-[log]:error:-0.00034451455576345325 angle-0.15350426733493805
+2024-04-30 16:00:56,189-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:56,189-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:56,190-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5403528213500977, 0.471875, -0.3875, 1.00625, 1.225]]
+2024-04-30 16:00:56,195-car_wrap.py-[line:603]-INFO-[log]:left:1986 right:1311
+2024-04-30 16:00:56,925-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:56,925-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:56,926-car_wrap.py-[line:599]-INFO-[log]:error:0.00016370456432923675 angle0.006076430436223745
+2024-04-30 16:00:56,926-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:56,926-car_wrap.py-[line:601]-INFO-[log]:task:[[1, 0, 'cylinder1', 0.5675491690635681, -0.11057692307692307, -0.026442307692307692, 1.6442307692307692, 1.9567307692307692]]
+2024-04-30 16:00:56,926-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.8710712790489197, 0.0484375, -0.04375, 1.640625, 1.9125]]
+2024-04-30 16:00:56,933-car_wrap.py-[line:603]-INFO-[log]:left:1934 right:1230
+2024-04-30 16:00:57,666-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:57,666-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:57,666-car_wrap.py-[line:599]-INFO-[log]:error:0.00012571754632517695 angle0.00662057613953948
+2024-04-30 16:00:57,666-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:57,667-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:57,667-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:00:57,674-car_wrap.py-[line:603]-INFO-[log]:left:1860 right:954
+2024-04-30 16:00:58,401-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:58,401-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:58,402-car_wrap.py-[line:599]-INFO-[log]:error:0.00013512448640540242 angle0.007097240071743727
+2024-04-30 16:00:58,402-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:58,402-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:58,402-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.504686176776886, -0.0203125, 0.0125, 1.765625, 1.9916666666666667]]
+2024-04-30 16:00:58,412-car_wrap.py-[line:603]-INFO-[log]:left:1807 right:1005
+2024-04-30 16:00:59,136-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:59,136-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:59,136-car_wrap.py-[line:599]-INFO-[log]:error:0.00013152958126738667 angle0.006701331119984388
+2024-04-30 16:00:59,136-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:59,136-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:00:59,136-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:00:59,143-car_wrap.py-[line:603]-INFO-[log]:left:1638 right:588
+2024-04-30 16:00:59,874-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:00:59,874-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:00:59,874-car_wrap.py-[line:599]-INFO-[log]:error:0.00012884585885331035 angle0.006805807817727327
+2024-04-30 16:00:59,874-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:00:59,875-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5309962034225464, 0.1971153846153846, 0.03125, 1.6346153846153846, 2.0721153846153846]]
+2024-04-30 16:00:59,875-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:00:59,881-car_wrap.py-[line:603]-INFO-[log]:left:947 right:1315
+2024-04-30 16:01:00,609-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:00,609-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:00,609-car_wrap.py-[line:599]-INFO-[log]:error:0.00012449797941371799 angle0.007195654790848494
+2024-04-30 16:01:00,609-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:00,609-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:00,609-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:00,615-car_wrap.py-[line:603]-INFO-[log]:left:1799 right:1104
+2024-04-30 16:01:01,341-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:01,341-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:01,341-car_wrap.py-[line:599]-INFO-[log]:error:0.0001421560882590711 angle0.006988526787608862
+2024-04-30 16:01:01,342-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:01,342-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.6580878496170044, 0.1875, -0.021634615384615384, 1.6057692307692308, 1.9086538461538463], [0, 0, 'block', 0.6024197936058044, -0.15144230769230768, 0.06971153846153846, 1.7451923076923077, 2.0336538461538463]]
+2024-04-30 16:01:01,342-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5637370944023132, -0.0171875, 0.00625, 1.828125, 1.9958333333333333]]
+2024-04-30 16:01:01,348-car_wrap.py-[line:603]-INFO-[log]:left:1801 right:655
+2024-04-30 16:01:02,077-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:02,077-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:02,077-car_wrap.py-[line:599]-INFO-[log]:error:0.0001571126631461084 angle0.007690562400966883
+2024-04-30 16:01:02,077-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:02,077-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.6905748844146729, 0.20432692307692307, 0.019230769230769232, 1.6105769230769231, 2.0961538461538463]]
+2024-04-30 16:01:02,078-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5093259811401367, -0.0125, 0.004166666666666667, 1.86875, 2.0]]
+2024-04-30 16:01:02,083-car_wrap.py-[line:603]-INFO-[log]:left:1660 right:1504
+2024-04-30 16:01:02,809-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:02,809-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:02,810-car_wrap.py-[line:599]-INFO-[log]:error:0.00015137455193325877 angle0.007331762928515673
+2024-04-30 16:01:02,810-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:02,810-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.6304581761360168, 0.2091346153846154, 0.016826923076923076, 1.6105769230769231, 2.081730769230769]]
+2024-04-30 16:01:02,810-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:02,817-car_wrap.py-[line:603]-INFO-[log]:left:1700 right:643
+2024-04-30 16:01:03,539-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:03,539-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:03,539-car_wrap.py-[line:599]-INFO-[log]:error:0.0001562504912726581 angle0.00725369481369853
+2024-04-30 16:01:03,540-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:03,540-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.6053386926651001, 0.1971153846153846, 0.03125, 1.5961538461538463, 2.081730769230769]]
+2024-04-30 16:01:03,540-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:03,546-car_wrap.py-[line:603]-INFO-[log]:left:1676 right:1520
+2024-04-30 16:01:04,273-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:04,273-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:04,273-car_wrap.py-[line:599]-INFO-[log]:error:0.0001434345613233745 angle0.008224336430430412
+2024-04-30 16:01:04,274-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:04,274-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:04,274-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6718289256095886, 0.3203125, -0.3375, 1.265625, 1.325]]
+2024-04-30 16:01:04,280-car_wrap.py-[line:603]-INFO-[log]:left:1928 right:1419
+2024-04-30 16:01:05,005-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:05,006-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:05,006-car_wrap.py-[line:599]-INFO-[log]:error:8.833495667204261e-05 angle0.007167857605963945
+2024-04-30 16:01:05,006-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:05,006-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.758411169052124, 0.3389423076923077, -0.057692307692307696, 1.2836538461538463, 1.9519230769230769], [5, 0, 'yellow_ball', 0.6295543313026428, -0.2403846153846154, -0.0625, 1.625, 1.9134615384615385]]
+2024-04-30 16:01:05,006-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5240875482559204, 0.0515625, -0.01875, 1.834375, 1.9041666666666666]]
+2024-04-30 16:01:05,012-car_wrap.py-[line:603]-INFO-[log]:left:1115 right:1377
+2024-04-30 16:01:05,738-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:05,738-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:05,738-car_wrap.py-[line:599]-INFO-[log]:error:4.277884727343917e-05 angle0.00565784377977252
+2024-04-30 16:01:05,738-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:05,739-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.6230876445770264, 0.31009615384615385, -0.028846153846153848, 1.3894230769230769, 2.076923076923077]]
+2024-04-30 16:01:05,739-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7093498706817627, -0.0015625, 0.010416666666666666, 1.946875, 2.004166666666667]]
+2024-04-30 16:01:05,745-car_wrap.py-[line:603]-INFO-[log]:left:1829 right:1583
+2024-04-30 16:01:06,471-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:06,471-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:06,472-car_wrap.py-[line:599]-INFO-[log]:error:4.3529842514544725e-05 angle0.005301188211888075
+2024-04-30 16:01:06,472-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:06,472-car_wrap.py-[line:601]-INFO-[log]:task:[[0, 0, 'block', 0.5909581184387207, 0.21875, -0.004807692307692308, 1.6586538461538463, 2.1346153846153846]]
+2024-04-30 16:01:06,472-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6071826815605164, -0.0125, 0.0125, 1.96875, 2.0166666666666666]]
+2024-04-30 16:01:06,478-car_wrap.py-[line:603]-INFO-[log]:left:1072 right:1450
+2024-04-30 16:01:07,206-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:07,206-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:07,206-car_wrap.py-[line:599]-INFO-[log]:error:3.9435632061213255e-05 angle0.0060620917938649654
+2024-04-30 16:01:07,206-car_wrap.py-[line:600]-INFO-[log]:front:[[0, 0, 'turn_left', 0.5104118585586548, 0.7475961538461539, 0.30528846153846156, 0.4951923076923077, 1.3990384615384615]]
+2024-04-30 16:01:07,207-car_wrap.py-[line:601]-INFO-[log]:task:[[0, 0, 'block', 0.5646004676818848, 0.2644230769230769, -0.028846153846153848, 1.7211538461538463, 2.105769230769231]]
+2024-04-30 16:01:07,207-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6475611925125122, -0.0125, 0.010416666666666666, 1.975, 2.0125]]
+2024-04-30 16:01:07,215-car_wrap.py-[line:603]-INFO-[log]:left:1805 right:1363
+2024-04-30 16:01:07,943-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:07,943-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:07,944-car_wrap.py-[line:599]-INFO-[log]:error:6.513000698760152e-05 angle0.0061876471154391766
+2024-04-30 16:01:07,944-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:07,944-car_wrap.py-[line:601]-INFO-[log]:task:[[0, 0, 'block', 0.7302560806274414, 0.2403846153846154, -0.007211538461538462, 1.6346153846153846, 2.1009615384615383], [5, 0, 'yellow_ball', 0.545113205909729, 0.2403846153846154, -0.007211538461538462, 1.6346153846153846, 2.1009615384615383]]
+2024-04-30 16:01:07,944-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5547252893447876, -0.0109375, 0.008333333333333333, 1.978125, 2.0083333333333333]]
+2024-04-30 16:01:07,950-car_wrap.py-[line:603]-INFO-[log]:left:1806 right:541
+2024-04-30 16:01:08,679-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:08,679-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:08,680-car_wrap.py-[line:599]-INFO-[log]:error:6.832421058788896e-05 angle0.006418397184461355
+2024-04-30 16:01:08,680-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:08,680-car_wrap.py-[line:601]-INFO-[log]:task:[[0, 0, 'block', 0.6508313417434692, 0.21153846153846154, 0.007211538461538462, 1.6442307692307692, 2.0721153846153846], [5, 0, 'yellow_ball', 0.6390267014503479, 0.21153846153846154, 0.007211538461538462, 1.6442307692307692, 2.0721153846153846], [0, 0, 'block', 0.5552988648414612, -0.14182692307692307, 0.009615384615384616, 1.7067307692307692, 2.1538461538461537]]
+2024-04-30 16:01:08,680-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5113430619239807, -0.009375, 0.008333333333333333, 1.98125, 2.0083333333333333]]
+2024-04-30 16:01:08,686-car_wrap.py-[line:603]-INFO-[log]:left:1825 right:1113
+2024-04-30 16:01:09,413-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:09,413-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:09,413-car_wrap.py-[line:599]-INFO-[log]:error:7.948855636641383e-05 angle0.006961326580494642
+2024-04-30 16:01:09,413-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:09,414-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.5958458185195923, 0.23557692307692307, -0.019230769230769232, 1.7019230769230769, 2.0961538461538463], [0, 0, 'block', 0.5703381896018982, 0.23557692307692307, -0.019230769230769232, 1.7019230769230769, 2.0961538461538463]]
+2024-04-30 16:01:09,414-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5926005244255066, -0.00625, 0.00625, 1.9875, 2.004166666666667]]
+2024-04-30 16:01:09,419-car_wrap.py-[line:603]-INFO-[log]:left:1617 right:473
+2024-04-30 16:01:10,142-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:10,143-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:10,143-car_wrap.py-[line:599]-INFO-[log]:error:9.476573904976249e-05 angle0.009339291602373123
+2024-04-30 16:01:10,143-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:10,143-car_wrap.py-[line:601]-INFO-[log]:task:[[5, 0, 'yellow_ball', 0.7473340034484863, 0.24278846153846154, 0.021634615384615384, 1.6586538461538463, 2.110576923076923]]
+2024-04-30 16:01:10,143-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:10,150-car_wrap.py-[line:603]-INFO-[log]:left:962 right:1366
+2024-04-30 16:01:10,872-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:10,872-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:10,873-car_wrap.py-[line:599]-INFO-[log]:error:8.872634498402476e-05 angle0.006604007910937071
+2024-04-30 16:01:10,873-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:10,873-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:10,873-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:10,879-car_wrap.py-[line:603]-INFO-[log]:left:1502 right:568
+2024-04-30 16:01:11,605-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:11,605-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:11,606-car_wrap.py-[line:599]-INFO-[log]:error:7.292296504601836e-05 angle0.008970553055405617
+2024-04-30 16:01:11,606-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:11,606-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:11,606-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 2, 'pedestrian', 0.547968864440918, 0.7875, -0.7041666666666667, 0.425, 0.575]]
+2024-04-30 16:01:11,612-car_wrap.py-[line:603]-INFO-[log]:left:1852 right:1542
+2024-04-30 16:01:12,336-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:12,337-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:12,337-car_wrap.py-[line:599]-INFO-[log]:error:0.0001886365353129804 angle0.007732226978987455
+2024-04-30 16:01:12,337-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:12,337-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:12,337-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:12,344-car_wrap.py-[line:603]-INFO-[log]:left:1868 right:1555
+2024-04-30 16:01:13,065-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:13,065-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:13,065-car_wrap.py-[line:599]-INFO-[log]:error:0.00014274235581979156 angle0.00916350819170475
+2024-04-30 16:01:13,065-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:13,066-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:13,066-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:13,072-car_wrap.py-[line:603]-INFO-[log]:left:1760 right:1678
+2024-04-30 16:01:13,817-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:13,817-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:13,817-car_wrap.py-[line:599]-INFO-[log]:error:0.00014523480786010623 angle0.008270425722002983
+2024-04-30 16:01:13,818-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:13,818-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:13,818-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7614786028862, -0.003125, 0.0, 1.98125, 2.0]]
+2024-04-30 16:01:13,824-car_wrap.py-[line:603]-INFO-[log]:left:1768 right:1712
+2024-04-30 16:01:14,546-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:14,547-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:14,547-car_wrap.py-[line:599]-INFO-[log]:error:0.00013407965889200568 angle0.00865873135626316
+2024-04-30 16:01:14,547-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:14,547-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:14,547-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:14,553-car_wrap.py-[line:603]-INFO-[log]:left:1740 right:1611
+2024-04-30 16:01:15,275-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:15,275-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:15,276-car_wrap.py-[line:599]-INFO-[log]:error:0.00014508928870782256 angle0.00857727974653244
+2024-04-30 16:01:15,296-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:15,297-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:15,297-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:15,303-car_wrap.py-[line:603]-INFO-[log]:left:1434 right:1682
+2024-04-30 16:01:16,027-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:16,027-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:16,028-car_wrap.py-[line:599]-INFO-[log]:error:0.00012780172983184457 angle0.008549004793167114
+2024-04-30 16:01:16,028-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:16,028-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:16,029-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:16,038-car_wrap.py-[line:603]-INFO-[log]:left:1053 right:1621
+2024-04-30 16:01:16,761-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:16,762-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:16,762-car_wrap.py-[line:599]-INFO-[log]:error:0.0001367162331007421 angle0.008402090519666672
+2024-04-30 16:01:16,762-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:16,762-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:16,762-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:16,769-car_wrap.py-[line:603]-INFO-[log]:left:1747 right:788
+2024-04-30 16:01:17,493-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:17,493-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:17,493-car_wrap.py-[line:599]-INFO-[log]:error:0.00012440135469660163 angle0.008980192244052887
+2024-04-30 16:01:17,493-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:17,494-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:17,494-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5849664211273193, -0.0375, -0.0020833333333333333, 1.95625, 1.9958333333333333]]
+2024-04-30 16:01:17,500-car_wrap.py-[line:603]-INFO-[log]:left:1661 right:1491
+2024-04-30 16:01:18,224-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:18,224-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:18,224-car_wrap.py-[line:599]-INFO-[log]:error:0.00013711972860619426 angle0.008900562301278114
+2024-04-30 16:01:18,224-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:18,224-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:18,224-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6176779866218567, -0.04375, -0.0020833333333333333, 1.95, 1.9958333333333333]]
+2024-04-30 16:01:18,231-car_wrap.py-[line:603]-INFO-[log]:left:1804 right:973
+2024-04-30 16:01:18,955-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:18,956-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:18,956-car_wrap.py-[line:599]-INFO-[log]:error:0.00013441935880109668 angle0.008855650201439857
+2024-04-30 16:01:18,956-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:18,956-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:18,956-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5241835713386536, -0.021875, -0.0020833333333333333, 1.95625, 1.9958333333333333]]
+2024-04-30 16:01:18,962-car_wrap.py-[line:603]-INFO-[log]:left:1833 right:1224
+2024-04-30 16:01:19,685-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:19,686-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:19,686-car_wrap.py-[line:599]-INFO-[log]:error:0.00013995374320074916 angle0.008879179134964943
+2024-04-30 16:01:19,686-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:19,686-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:19,686-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:19,692-car_wrap.py-[line:603]-INFO-[log]:left:1328 right:1583
+2024-04-30 16:01:20,417-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:20,418-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:20,438-car_wrap.py-[line:599]-INFO-[log]:error:0.00013969646533951163 angle0.008516782894730568
+2024-04-30 16:01:20,439-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:20,439-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:20,439-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.6140257716178894, -0.015625, -0.0020833333333333333, 1.95625, 1.9958333333333333]]
+2024-04-30 16:01:20,445-car_wrap.py-[line:603]-INFO-[log]:left:777 right:1392
+2024-04-30 16:01:21,169-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:21,170-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:21,170-car_wrap.py-[line:599]-INFO-[log]:error:0.00014989665942266583 angle0.008594578132033348
+2024-04-30 16:01:21,170-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:21,170-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:21,170-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5763756036758423, -0.0140625, -0.0020833333333333333, 1.959375, 1.9958333333333333]]
+2024-04-30 16:01:21,176-car_wrap.py-[line:603]-INFO-[log]:left:1852 right:1071
+2024-04-30 16:01:21,899-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:21,900-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:21,900-car_wrap.py-[line:599]-INFO-[log]:error:0.0001364214695058763 angle0.008601024746894836
+2024-04-30 16:01:21,900-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:21,900-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:21,900-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.557729959487915, -0.0125, -0.0020833333333333333, 1.9625, 1.9958333333333333]]
+2024-04-30 16:01:21,906-car_wrap.py-[line:603]-INFO-[log]:left:1697 right:708
+2024-04-30 16:01:22,630-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:22,631-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:22,631-car_wrap.py-[line:599]-INFO-[log]:error:0.0001424481743015349 angle0.008820809423923492
+2024-04-30 16:01:22,631-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:22,631-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:22,631-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5508984327316284, -0.0109375, -0.0020833333333333333, 1.965625, 1.9958333333333333]]
+2024-04-30 16:01:22,637-car_wrap.py-[line:603]-INFO-[log]:left:1775 right:1588
+2024-04-30 16:01:23,362-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:23,363-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:23,363-car_wrap.py-[line:599]-INFO-[log]:error:0.0001409890246577561 angle0.008988676592707634
+2024-04-30 16:01:23,363-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:23,363-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:23,363-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5793014764785767, -0.00625, -0.0020833333333333333, 1.96875, 1.9958333333333333]]
+2024-04-30 16:01:23,372-car_wrap.py-[line:603]-INFO-[log]:left:1279 right:1403
+2024-04-30 16:01:24,097-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:24,098-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:24,098-car_wrap.py-[line:599]-INFO-[log]:error:0.00012494920520111918 angle0.008850602433085442
+2024-04-30 16:01:24,098-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:24,098-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:24,098-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5975524187088013, -0.0265625, -0.0020833333333333333, 1.953125, 1.9958333333333333]]
+2024-04-30 16:01:24,107-car_wrap.py-[line:603]-INFO-[log]:left:1181 right:1513
+2024-04-30 16:01:24,833-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:24,833-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:24,833-car_wrap.py-[line:599]-INFO-[log]:error:0.00017129996558651328 angle0.008715096861124039
+2024-04-30 16:01:24,833-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:24,833-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:24,834-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.5855867266654968, -0.009375, -0.0020833333333333333, 1.9625, 1.9958333333333333]]
+2024-04-30 16:01:24,840-car_wrap.py-[line:603]-INFO-[log]:left:1460 right:647
+2024-04-30 16:01:25,562-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:25,562-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:25,583-car_wrap.py-[line:599]-INFO-[log]:error:-0.00015661102952435613 angle-0.006000571418553591
+2024-04-30 16:01:25,583-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:25,584-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:25,584-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.598286509513855, -0.0203125, -0.0020833333333333333, 1.959375, 1.9958333333333333]]
+2024-04-30 16:01:25,590-car_wrap.py-[line:603]-INFO-[log]:left:1704 right:667
+2024-04-30 16:01:26,312-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:26,313-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:26,313-car_wrap.py-[line:599]-INFO-[log]:error:0.00032587588066235185 angle0.004762632306665182
+2024-04-30 16:01:26,313-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:26,313-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:26,314-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:26,323-car_wrap.py-[line:603]-INFO-[log]:left:1730 right:1649
+2024-04-30 16:01:27,048-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:27,048-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:27,048-car_wrap.py-[line:599]-INFO-[log]:error:0.000339306250680238 angle0.009223561733961105
+2024-04-30 16:01:27,049-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:27,049-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:27,049-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:27,055-car_wrap.py-[line:603]-INFO-[log]:left:1865 right:937
+2024-04-30 16:01:27,782-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:27,782-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:27,782-car_wrap.py-[line:599]-INFO-[log]:error:0.00032783771166577935 angle0.0110364630818367
+2024-04-30 16:01:27,783-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:27,783-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:27,783-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 3, 'pedestrian', 0.5922539234161377, -0.221875, 0.9458333333333333, 0.08125, 0.10833333333333334], [0, 4, 'pedestrian', 0.5318426489830017, -0.434375, -0.008333333333333333, 1.13125, 1.9833333333333334], [0, 1, 'pedestrian', 0.5977584719657898, 0.0015625, -0.004166666666666667, 1.965625, 1.9916666666666667]]
+2024-04-30 16:01:27,789-car_wrap.py-[line:603]-INFO-[log]:left:1096 right:1030
+2024-04-30 16:01:28,511-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:28,512-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:28,512-car_wrap.py-[line:599]-INFO-[log]:error:0.0003822516300715506 angle0.010955724865198135
+2024-04-30 16:01:28,512-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:28,512-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:28,512-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:28,518-car_wrap.py-[line:603]-INFO-[log]:left:969 right:1475
+2024-04-30 16:01:29,243-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:29,243-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:29,243-car_wrap.py-[line:599]-INFO-[log]:error:0.000393328198697418 angle0.010201215744018555
+2024-04-30 16:01:29,244-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:29,244-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:29,244-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:29,250-car_wrap.py-[line:603]-INFO-[log]:left:1952 right:1221
+2024-04-30 16:01:29,975-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:29,975-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:29,976-car_wrap.py-[line:599]-INFO-[log]:error:0.000399910903070122 angle0.009886913001537323
+2024-04-30 16:01:29,976-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:29,976-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:29,976-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:29,982-car_wrap.py-[line:603]-INFO-[log]:left:1868 right:1602
+2024-04-30 16:01:30,707-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:30,707-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:30,708-car_wrap.py-[line:599]-INFO-[log]:error:0.0004177551600150764 angle0.009691163897514343
+2024-04-30 16:01:30,708-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:30,708-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:30,708-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:30,714-car_wrap.py-[line:603]-INFO-[log]:left:1803 right:1115
+2024-04-30 16:01:31,445-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:31,446-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:31,446-car_wrap.py-[line:599]-INFO-[log]:error:0.0004003660869784653 angle0.009828448295593262
+2024-04-30 16:01:31,446-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:31,446-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:31,446-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:31,453-car_wrap.py-[line:603]-INFO-[log]:left:1802 right:668
+2024-04-30 16:01:32,178-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:32,178-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:32,179-car_wrap.py-[line:599]-INFO-[log]:error:0.0003836663090623915 angle0.009931188076734543
+2024-04-30 16:01:32,179-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:32,179-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:32,179-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:32,185-car_wrap.py-[line:603]-INFO-[log]:left:1324 right:1659
+2024-04-30 16:01:32,909-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:32,910-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:32,910-car_wrap.py-[line:599]-INFO-[log]:error:0.0004046919639222324 angle0.01010686345398426
+2024-04-30 16:01:32,910-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:32,910-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:32,910-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:32,916-car_wrap.py-[line:603]-INFO-[log]:left:1483 right:1635
+2024-04-30 16:01:33,642-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:33,642-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:33,642-car_wrap.py-[line:599]-INFO-[log]:error:0.00041171215707436204 angle0.010015849024057388
+2024-04-30 16:01:33,643-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:33,643-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:33,643-car_wrap.py-[line:602]-INFO-[log]:hum_det:[]
+2024-04-30 16:01:33,649-car_wrap.py-[line:603]-INFO-[log]:left:1100 right:1433
+2024-04-30 16:01:34,380-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:34,381-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:34,381-car_wrap.py-[line:599]-INFO-[log]:error:0.00041722151217982173 angle0.009055759757757187
+2024-04-30 16:01:34,381-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:34,381-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:34,381-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 5, 'pedestrian', 0.6765545010566711, 0.7125, 0.008333333333333333, 0.575, 0.35833333333333334]]
+2024-04-30 16:01:34,387-car_wrap.py-[line:603]-INFO-[log]:left:1908 right:1587
+2024-04-30 16:01:35,117-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:35,117-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:35,117-car_wrap.py-[line:599]-INFO-[log]:error:0.0003627926926128566 angle0.010849028825759888
+2024-04-30 16:01:35,118-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:35,118-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:35,118-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.7468491792678833, 0.2421875, -0.3958333333333333, 1.315625, 1.2083333333333333]]
+2024-04-30 16:01:35,124-car_wrap.py-[line:603]-INFO-[log]:left:1556 right:1587
+2024-04-30 16:01:35,853-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:35,853-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:35,853-car_wrap.py-[line:599]-INFO-[log]:error:0.0003489652299322188 angle0.011519743129611015
+2024-04-30 16:01:35,853-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:35,854-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:35,854-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.8955653309822083, 0.234375, -0.375, 1.40625, 1.25]]
+2024-04-30 16:01:35,859-car_wrap.py-[line:603]-INFO-[log]:left:1933 right:1447
+2024-04-30 16:01:36,590-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:36,590-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:36,590-car_wrap.py-[line:599]-INFO-[log]:error:0.0003580015036277473 angle0.010782632976770401
+2024-04-30 16:01:36,590-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:36,590-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:36,591-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.9084261655807495, 0.2296875, -0.36666666666666664, 1.453125, 1.2666666666666666]]
+2024-04-30 16:01:36,597-car_wrap.py-[line:603]-INFO-[log]:left:804 right:1243
+2024-04-30 16:01:37,327-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:37,328-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:37,328-car_wrap.py-[line:599]-INFO-[log]:error:0.00036686722887679935 angle0.011111291125416756
+2024-04-30 16:01:37,328-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:37,328-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:37,328-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.9295031428337097, 0.225, -0.35625, 1.49375, 1.2875]]
+2024-04-30 16:01:37,334-car_wrap.py-[line:603]-INFO-[log]:left:1793 right:1656
+2024-04-30 16:01:38,062-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:38,062-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:38,062-car_wrap.py-[line:599]-INFO-[log]:error:0.0003586866077966988 angle0.011146971955895424
+2024-04-30 16:01:38,063-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:38,063-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:38,063-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.9042337536811829, 0.225, -0.3625, 1.49375, 1.275]]
+2024-04-30 16:01:38,069-car_wrap.py-[line:603]-INFO-[log]:left:1254 right:1440
+2024-04-30 16:01:38,801-car_wrap.py-[line:597]-INFO-[log]:
+2024-04-30 16:01:38,801-car_wrap.py-[line:598]-INFO-[log]:--------------
+2024-04-30 16:01:38,802-car_wrap.py-[line:599]-INFO-[log]:error:0.00035353301791474223 angle0.010887229815125465
+2024-04-30 16:01:38,802-car_wrap.py-[line:600]-INFO-[log]:front:[]
+2024-04-30 16:01:38,802-car_wrap.py-[line:601]-INFO-[log]:task:[]
+2024-04-30 16:01:38,802-car_wrap.py-[line:602]-INFO-[log]:hum_det:[[0, 1, 'pedestrian', 0.9139724969863892, 0.228125, -0.37083333333333335, 1.4875, 1.2583333333333333], [0, 6, 'pedestrian', 0.8675627112388611, -0.484375, -0.7, 0.43125, 0.6]]
+2024-04-30 16:01:38,808-car_wrap.py-[line:603]-INFO-[log]:left:1330 right:1577
