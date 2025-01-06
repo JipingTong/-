@@ -1,0 +1,129 @@
+2024-06-27 00:06:11,087-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:06:11,307-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:06:14,266-vehicle_base2.py-[line:371]-WARNING-[log]:timeout
+2024-06-27 00:07:57,742-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:07:57,962-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:08:00,920-vehicle_base2.py-[line:371]-WARNING-[log]:timeout
+2024-06-27 00:09:06,504-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:09:06,724-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:13:53,699-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:13:53,920-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:14:06,227-vehicle_base2.py-[line:371]-WARNING-[log]:timeout
+2024-06-27 00:14:14,921-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:14:15,141-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:14:58,278-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:14:58,496-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:15:42,680-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:15:42,899-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:15:56,791-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:15:57,012-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:16:41,814-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:16:42,032-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:17:02,522-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:17:02,742-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:18:04,216-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:18:04,432-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:18:22,130-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:18:22,350-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:18:58,015-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:18:58,235-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:19:30,793-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:19:31,014-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:20:00,663-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:20:00,884-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:25:39,370-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:25:39,591-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:25:42,545-vehicle_base2.py-[line:371]-WARNING-[log]:timeout
+2024-06-27 00:25:54,425-vehicle_base2.py-[line:371]-WARNING-[log]:timeout
+2024-06-27 00:26:26,058-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:26:26,278-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:26:29,238-vehicle_base2.py-[line:371]-WARNING-[log]:timeout
+2024-06-27 00:26:41,096-vehicle_base2.py-[line:371]-WARNING-[log]:timeout
+2024-06-27 00:28:29,204-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:28:29,422-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:28:32,367-vehicle_base2.py-[line:371]-WARNING-[log]:timeout
+2024-06-27 00:29:49,901-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:29:50,120-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:30:20,912-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:30:21,132-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:31:43,333-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:31:43,552-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:32:39,297-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 00:32:39,518-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:20:58,856-controller2.py-[line:273]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-06-27 02:22:08,904-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:22:09,128-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:22:52,791-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:22:53,012-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:23:35,631-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:23:35,849-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:24:25,799-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:24:26,018-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:25:10,668-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:25:10,889-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:26:37,708-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 02:26:37,926-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:38:59,109-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:38:59,334-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:41:21,939-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:41:22,159-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:41:56,743-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:41:56,962-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:47:04,917-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:47:05,135-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 04:47:05,736-vehicle_base2.py-[line:491]-INFO-[log]:mecanum init
+2024-06-27 04:47:05,947-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21071934700012207
+2024-06-27 04:47:13,626-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:14,628-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:15,630-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:16,631-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:17,633-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:18,635-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:19,637-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:20,639-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:21,641-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:22,643-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:23,645-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:24,647-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:25,649-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:26,651-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 19:53:08,945-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 19:53:09,170-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:33:51,313-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:33:51,537-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:34:04,327-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:34:04,549-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:36:19,902-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:36:20,123-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:36:57,423-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:36:57,644-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:37:38,386-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:37:38,606-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:49:06,561-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:49:06,781-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:50:08,033-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:50:08,252-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:50:43,020-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:50:43,241-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:51:16,566-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 22:51:16,787-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:02:36,379-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:02:36,609-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:03:03,812-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:03:04,042-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:47:47,226-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:47:47,454-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:51:40,579-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:51:40,798-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:54:35,063-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:54:35,283-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:55:20,135-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:55:20,366-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:56:11,290-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:56:11,514-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:56:55,667-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:56:55,898-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:59:18,028-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:59:18,259-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:59:53,798-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-27 23:59:54,018-controller2.py-[line:307]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'

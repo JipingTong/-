@@ -1,0 +1,2374 @@
+2024-07-01 01:49:07,764-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 01:49:07,989-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 01:49:08,674-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 01:49:08,886-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21250367164611816
+2024-07-01 01:49:13,556-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 01:49:13,634-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-01 01:49:28,829-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 01:49:29,055-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 01:49:29,575-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 01:49:29,786-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21108460426330566
+2024-07-01 01:49:34,442-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 01:49:35,520-infer_front.py-[line:123]-INFO-[log]:
+2024-07-01 01:49:35,521-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 01:49:35,521-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 01:49:35,590-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 01:49:35,590-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 01:49:35,656-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 01:49:35,657-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 01:49:35,723-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 01:49:35,723-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 01:49:35,789-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 01:49:35,789-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 01:49:35,855-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 01:49:36,218-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 01:49:36,218-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 01:49:40,204-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-01 01:49:40,583-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 01:49:40,920-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 01:49:47,849-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 01:49:59,094-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 01:50:40,535-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 01:51:05,175-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 01:51:06,167-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 01:51:25,096-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 01:54:45,058-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 01:54:45,060-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:46,062-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:47,064-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:48,066-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:49,067-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:50,069-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:51,071-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:52,074-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:53,076-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:54,078-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:55,079-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:56,082-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:57,105-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:58,107-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:54:59,109-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:00,111-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:01,112-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:02,135-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:03,137-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:04,139-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:05,141-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:06,143-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:07,166-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:08,168-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:09,170-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:10,172-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:11,174-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:12,197-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:13,199-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:14,201-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:15,203-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:16,205-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 01:55:17,207-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 02:58:28,048-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 02:58:28,273-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 02:58:28,953-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 02:58:29,164-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21113133430480957
+2024-07-01 02:58:33,826-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 02:58:33,899-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-01 02:58:55,521-infer_front.py-[line:123]-INFO-[log]:
+2024-07-01 02:58:55,522-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 02:58:55,523-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 02:58:55,599-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 02:58:55,599-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 02:58:55,670-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 02:58:55,670-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 02:58:55,739-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 02:58:55,739-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 02:58:55,807-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 02:58:55,807-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 02:58:55,875-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 02:58:56,238-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 02:58:56,238-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 03:03:25,380-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 03:03:25,424-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:26,435-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:27,446-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:28,457-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:29,458-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:30,465-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:31,498-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:32,513-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:33,515-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:34,527-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:35,533-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:36,566-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:37,568-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:38,570-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:39,581-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:40,590-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:41,623-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:42,625-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:43,637-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:44,647-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:45,648-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:46,675-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:47,676-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:48,678-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:49,693-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:50,695-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:51,726-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:52,727-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:53,729-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:54,736-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:55,749-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:56,751-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:57,753-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:58,764-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:03:59,768-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:00,770-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:01,772-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:02,795-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:03,796-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:04,808-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:05,818-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:06,819-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:07,842-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:08,844-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:09,856-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:10,863-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:11,865-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:12,896-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:13,897-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:14,898-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:15,910-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:16,918-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:17,950-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:18,952-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:19,954-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:20,956-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:21,958-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:22,982-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:23,984-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:24,986-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:25,997-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:27,002-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:28,031-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:29,033-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:30,034-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:31,043-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:32,049-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:33,080-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:34,082-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:35,094-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:36,101-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:37,102-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:38,134-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:39,136-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:40,137-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:41,149-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:42,155-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:43,191-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:44,193-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:45,205-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:46,210-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:47,212-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:48,235-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:49,237-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:50,249-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:51,252-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:52,254-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:53,280-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:54,281-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:55,293-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:56,303-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:57,304-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:58,327-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:04:59,329-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:00,330-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:01,332-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:02,334-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:03,336-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:04,348-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:05,356-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:06,358-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:07,360-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:08,362-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:09,386-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:10,388-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:11,390-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:12,392-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:13,394-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:14,421-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:15,422-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:16,424-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:17,426-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:18,428-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:19,456-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:20,458-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:21,460-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:22,461-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:23,462-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:24,464-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:25,466-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:26,483-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:27,488-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:28,490-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:29,492-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:30,521-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:31,522-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:32,534-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:33,543-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:34,545-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:35,572-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:36,574-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:37,586-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:38,592-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:39,594-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:40,623-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:41,625-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:42,637-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:43,643-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:44,645-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:45,671-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:46,672-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:47,684-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:48,689-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:49,701-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:50,734-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:51,744-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:52,746-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:53,757-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:54,760-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:55,793-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:56,794-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:57,796-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:58,808-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:05:59,815-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:00,846-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:01,846-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:02,858-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:03,866-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:04,868-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:05,896-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:06,897-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:07,898-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:08,900-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:09,912-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:10,940-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:11,949-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:12,961-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:13,963-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:14,964-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:15,997-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:17,000-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:18,002-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:19,004-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:20,006-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:21,030-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:22,032-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:23,034-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:24,046-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:25,056-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:26,093-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:27,094-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:28,096-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:29,098-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:30,100-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:31,129-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:32,131-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:33,132-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:34,134-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:35,136-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:36,148-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:37,156-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:38,158-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:39,170-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:40,176-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:41,179-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:42,189-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:43,191-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:44,203-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:45,213-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:46,215-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:47,227-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:48,232-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:49,234-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:50,241-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:51,251-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:52,283-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:53,285-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:54,286-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:55,298-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:56,306-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:57,339-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:58,341-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:06:59,342-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:00,354-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:01,363-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:02,393-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:03,395-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:04,406-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:05,416-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:06,418-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:07,445-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:08,446-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:09,448-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:10,460-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:11,462-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:12,495-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:13,496-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:14,514-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:15,516-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:16,517-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:17,548-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:18,550-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:19,552-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:20,553-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:21,555-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:22,586-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:23,588-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:24,590-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:25,592-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:26,609-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:27,651-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:28,653-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:29,655-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:30,656-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:31,658-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:32,681-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:33,682-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:34,694-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:35,699-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:36,701-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:37,727-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:38,729-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:39,731-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:40,733-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:41,743-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:42,754-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:43,756-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:44,762-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:45,778-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:46,780-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:47,781-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:48,782-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:49,784-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:50,786-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:51,803-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:52,826-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:53,843-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:54,845-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:55,847-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:56,849-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:57,876-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:58,878-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:07:59,880-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:00,881-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:01,883-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:02,892-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:03,899-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:04,901-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:05,913-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:06,922-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:07,924-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:08,934-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:09,941-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:10,942-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:11,958-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:12,960-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:13,962-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:14,969-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:15,975-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:16,977-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:17,985-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:19,023-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:20,032-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:21,033-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:22,040-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:23,056-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:24,089-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:25,090-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:26,092-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:27,102-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:28,110-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:29,143-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:30,153-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:31,154-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:32,166-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:33,177-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:34,210-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:35,212-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:36,213-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:37,215-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:38,227-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:39,229-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:40,232-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:41,240-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:42,251-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:43,253-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:44,286-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:45,288-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:46,290-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:47,292-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:48,303-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:49,340-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:50,349-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:51,350-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:52,352-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:53,364-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:54,385-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:55,406-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:56,408-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:57,420-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:58,430-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:08:59,462-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:00,464-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:01,466-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:02,474-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:03,485-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:04,514-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:05,516-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:06,518-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:07,529-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:08,538-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:09,540-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:10,542-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:11,559-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:12,562-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:13,562-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:14,564-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:15,576-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:16,581-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:17,582-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:18,594-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:19,631-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:20,637-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:21,639-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:22,646-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:23,658-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:24,691-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:25,693-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:26,694-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:27,706-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:28,716-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:29,748-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:30,750-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:31,762-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:32,767-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:33,769-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:34,804-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:35,806-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:36,808-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:37,810-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:38,812-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:39,814-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:40,836-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:41,838-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:42,840-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:43,842-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:44,873-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:45,874-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:46,876-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:47,887-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:48,889-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:49,924-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:50,925-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:51,934-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:52,940-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:53,941-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:54,965-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:55,967-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:56,984-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:57,986-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:09:58,996-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:00,034-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:01,041-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:02,043-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:03,055-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:04,060-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:05,062-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:06,074-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:07,076-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:08,077-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:09,089-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:10,101-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:11,103-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:12,105-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:13,107-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:14,109-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:15,136-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:16,138-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:17,140-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:18,142-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:19,152-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:20,180-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:21,202-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:22,204-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:23,206-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:24,207-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:25,229-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:26,231-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:27,233-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:28,236-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:29,247-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:30,281-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:31,282-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:32,284-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:33,296-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:34,304-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:35,306-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:36,308-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:37,310-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 03:10:38,322-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+                                                                                                                                                                                                                                                                                                                                                                                                                                 2024-07-01 04:07:13,968-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:07:14,192-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:07:14,885-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:07:15,096-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.211256742477417
+2024-07-01 04:07:18,961-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 04:07:18,991-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 04:07:18,992-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:19,462-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:07:19,538-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-01 04:07:19,993-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:20,995-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:21,997-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:22,998-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:24,000-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:25,002-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:26,004-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:27,006-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:28,008-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:29,010-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:30,012-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:31,013-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:32,015-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:33,017-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:34,018-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:35,020-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:36,022-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:37,024-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:38,026-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:39,032-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:40,034-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:41,036-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:41,436-infer_front.py-[line:123]-INFO-[log]:
+2024-07-01 04:07:41,436-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:07:41,437-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:07:41,515-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:07:41,515-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:07:41,589-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:07:41,589-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:07:41,659-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:07:41,659-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:07:41,728-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:07:41,728-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:07:41,797-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:07:42,038-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:42,161-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:07:42,161-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:07:43,039-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:44,041-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:45,043-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:46,049-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:47,061-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:48,062-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:49,064-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:50,076-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:51,085-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:52,086-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:53,098-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:54,099-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:55,101-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:56,113-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:57,116-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:58,118-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:07:59,120-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:00,131-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:01,134-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:02,136-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:03,148-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:04,157-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:05,158-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:06,160-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:07,172-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:08,181-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:09,182-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:10,184-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:11,195-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:12,202-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:13,203-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:14,215-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:15,225-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:16,225-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:17,237-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:18,248-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:19,249-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:20,261-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:21,270-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:22,272-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:23,284-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:24,293-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:25,294-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:26,304-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:27,309-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:28,311-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:29,312-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:30,319-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:31,326-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:32,330-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:33,331-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:34,333-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:35,344-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:36,351-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:37,353-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:38,359-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:39,361-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:40,363-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:41,365-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:42,376-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:43,378-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:44,379-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:45,390-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:46,398-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:47,400-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:48,402-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:49,413-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:50,420-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:51,422-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:52,434-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:53,441-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:54,442-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:55,454-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:56,458-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:57,460-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:58,462-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:08:59,471-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:00,478-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:01,480-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:02,486-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:03,498-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:04,500-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:05,507-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:06,516-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:07,518-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:08,528-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:09,529-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:10,531-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:11,543-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:12,550-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:13,552-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:14,563-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:15,565-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:16,567-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:17,568-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:18,579-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:19,581-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:20,583-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:21,595-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:22,605-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:09:23,607-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:14:48,420-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:14:48,638-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:14:49,320-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:14:49,531-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2112884521484375
+2024-07-01 04:14:54,201-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:14:54,277-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-01 04:15:18,035-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:15:18,256-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:15:18,758-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:15:18,969-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21111440658569336
+2024-07-01 04:15:23,620-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:15:23,707-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:15:23,708-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:15:23,774-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:15:23,774-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:15:23,840-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:15:23,841-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:15:23,907-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:15:23,907-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:15:23,973-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:15:23,973-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:15:24,038-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:15:24,401-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:15:24,402-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:16:15,186-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:16:15,409-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:16:15,909-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:16:16,120-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21080446243286133
+2024-07-01 04:16:20,780-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:16:20,846-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:16:20,847-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:16:20,907-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:16:20,908-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:16:20,968-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:16:20,968-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:16:21,029-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:16:21,029-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:16:21,088-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:16:21,089-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:16:21,148-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:16:21,511-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:16:21,512-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:17:07,694-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:17:07,918-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:17:08,416-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:17:08,628-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2115159034729004
+2024-07-01 04:17:13,284-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:17:13,349-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:17:13,349-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:17:13,409-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:17:13,410-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:17:13,470-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:17:13,470-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:17:13,531-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:17:13,531-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:17:13,591-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:17:13,592-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:17:13,651-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:17:14,014-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:17:14,015-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:18:24,774-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:18:24,996-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:18:25,498-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:18:25,709-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21071863174438477
+2024-07-01 04:18:30,358-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:18:30,424-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:18:30,425-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:18:30,485-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:18:30,486-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:18:30,546-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:18:30,546-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:18:30,606-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:18:30,607-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:18:30,666-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:18:30,667-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:18:30,726-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:18:31,089-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:18:31,089-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:18:45,611-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:18:45,834-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:18:46,333-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:18:46,545-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21139931678771973
+2024-07-01 04:18:51,198-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:18:51,267-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:18:51,267-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:18:51,328-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:18:51,329-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:18:51,388-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:18:51,389-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:18:51,449-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:18:51,449-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:18:51,508-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:18:51,509-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:18:51,568-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:18:51,932-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:18:51,932-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:22:12,495-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:22:12,717-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:22:13,216-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:22:13,427-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21094083786010742
+2024-07-01 04:22:18,188-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:22:18,258-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:22:18,258-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:22:18,323-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:22:18,323-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:22:18,386-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:22:18,387-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:22:18,450-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:22:18,450-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:22:18,513-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:22:18,514-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:22:18,576-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:22:18,939-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:22:18,940-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:23:46,753-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:23:46,975-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:23:47,477-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:23:47,687-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21090269088745117
+2024-07-01 04:23:52,445-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:23:52,507-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:23:52,508-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:23:52,568-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:23:52,568-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:23:52,627-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:23:52,627-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:23:52,688-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:23:52,688-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:23:52,748-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:23:52,749-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:23:52,808-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:23:53,174-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:23:53,174-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:26:35,241-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:26:35,463-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:26:35,968-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:26:36,179-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2113630771636963
+2024-07-01 04:26:40,936-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:26:41,001-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:26:41,001-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:26:41,062-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:26:41,063-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:26:41,123-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:26:41,124-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:26:41,184-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:26:41,185-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:26:41,244-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:26:41,244-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:26:41,304-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:26:41,668-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:26:41,668-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:30:08,749-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:30:08,972-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:30:09,474-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:30:09,685-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21112394332885742
+2024-07-01 04:30:14,442-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:30:14,524-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:30:14,524-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:30:14,585-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:30:14,585-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:30:14,644-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:30:14,645-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:30:14,704-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:30:14,704-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:30:14,763-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:30:14,763-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:30:14,821-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:30:15,185-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:30:15,185-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:32:21,285-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:32:21,507-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:32:22,009-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:32:22,220-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21091890335083008
+2024-07-01 04:32:26,976-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:32:27,039-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:32:27,039-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:32:27,099-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:32:27,099-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:32:27,159-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:32:27,159-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:32:27,218-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:32:27,219-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:32:27,278-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:32:27,278-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:32:27,337-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:32:27,701-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:32:27,702-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:36:39,506-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:36:39,729-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:36:40,231-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:36:40,442-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2107691764831543
+2024-07-01 04:36:45,197-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:36:45,260-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:36:45,260-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:36:45,320-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:36:45,321-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:36:45,380-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:36:45,381-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:36:45,441-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:36:45,442-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:36:45,502-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:36:45,502-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:36:45,561-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:36:45,925-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:36:45,926-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:38:07,407-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 04:38:07,447-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:08,452-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:09,454-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:10,456-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:11,458-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:12,460-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:13,477-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:14,500-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:15,512-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:16,518-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:17,519-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:18,521-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:38:19,545-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:39:25,313-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:39:25,536-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:39:26,035-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:39:26,245-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21062088012695312
+2024-07-01 04:39:31,002-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:39:31,068-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:39:31,068-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:39:31,128-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:39:31,129-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:39:31,188-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:39:31,189-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:39:31,248-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:39:31,248-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:39:31,307-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:39:31,308-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:39:31,367-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:39:31,731-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:39:31,731-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:42:42,551-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:42:42,773-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:42:43,275-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:42:43,486-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21085739135742188
+2024-07-01 04:42:48,244-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:42:48,311-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:42:48,311-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:42:48,375-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:42:48,375-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:42:48,438-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:42:48,439-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:42:48,502-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:42:48,502-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:42:48,565-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:42:48,566-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:42:48,625-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:42:48,989-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:42:48,989-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:42:50,499-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-01 04:42:56,609-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 04:42:57,332-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:42:58,619-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 04:43:04,114-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:43:31,738-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:43:31,960-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:43:32,467-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:43:32,678-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2109823226928711
+2024-07-01 04:43:37,431-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:43:37,495-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:43:37,496-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:43:37,557-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:43:37,558-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:43:37,618-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:43:37,618-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:43:37,679-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:43:37,679-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:43:37,739-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:43:37,740-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:43:37,799-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:43:38,163-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:43:38,164-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:43:40,414-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-01 04:43:41,310-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 04:43:41,772-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:43:42,622-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 04:43:46,496-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:45:40,396-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:45:40,618-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:45:41,120-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:45:41,331-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21101927757263184
+2024-07-01 04:45:46,087-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:45:46,153-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:45:46,153-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:45:46,215-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:45:46,215-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:45:46,276-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:45:46,277-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:45:46,337-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:45:46,337-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:45:46,397-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:45:46,397-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:45:46,456-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:45:46,820-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:45:46,821-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:45:54,027-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:45:54,249-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:45:54,751-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:45:54,962-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21126294136047363
+2024-07-01 04:45:59,715-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:45:59,785-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:45:59,785-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:45:59,847-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:45:59,847-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:45:59,908-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:45:59,909-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:45:59,972-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:45:59,973-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:46:00,033-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:46:00,034-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:46:00,095-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:46:00,459-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:46:00,459-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:46:05,866-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-01 04:46:06,679-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 04:46:07,273-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:46:08,649-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 04:48:01,625-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:49:38,548-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:49:38,770-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 04:49:39,271-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 04:49:39,482-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21155786514282227
+2024-07-01 04:49:44,242-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 04:49:44,321-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 04:49:44,322-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 04:49:44,381-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 04:49:44,381-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 04:49:44,441-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 04:49:44,441-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 04:49:44,502-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 04:49:44,503-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 04:49:44,562-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 04:49:44,562-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 04:49:44,621-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 04:49:44,985-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 04:49:44,985-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 04:49:53,813-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-01 04:49:54,235-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 04:49:54,743-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:49:55,209-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 04:50:02,312-car_wrap.py-[line:752]-INFO-[log]:debug
+2024-07-01 04:50:09,350-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-01 04:50:14,890-car_wrap.py-[line:752]-INFO-[log]:debug
+2024-07-01 04:50:15,264-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 04:50:15,642-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:50:23,836-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 04:50:34,106-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 04:50:49,939-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 04:50:49,991-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:50:51,011-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 04:50:52,049-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           2024-07-01 06:03:21,303-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:03:21,525-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:03:22,030-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:03:22,241-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21146440505981445
+2024-07-01 06:03:26,996-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:03:27,069-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:03:27,070-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:03:27,136-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:03:27,136-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:03:27,205-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:03:27,205-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:03:27,272-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:03:27,273-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:03:27,338-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:03:27,339-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:03:27,405-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:03:27,769-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:03:27,769-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:05:00,393-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 06:05:00,419-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 06:05:01,420-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 06:05:02,422-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 06:05:03,432-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 06:05:04,474-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 06:05:05,475-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 06:05:06,477-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 06:05:07,489-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-07-01 06:18:35,959-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:18:36,184-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:18:36,685-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:18:36,896-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21084356307983398
+2024-07-01 06:18:41,659-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:18:41,727-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:18:41,728-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:18:41,789-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:18:41,790-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:18:41,851-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:18:41,852-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:18:41,913-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:18:41,914-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:18:41,974-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:18:41,974-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:18:42,035-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:18:42,399-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:18:42,400-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:18:59,331-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-01 06:19:00,014-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 06:19:01,996-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-01 06:19:02,548-car_wrap.py-[line:752]-INFO-[log]:debug
+2024-07-01 06:19:04,138-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:19:09,521-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:19:42,178-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:19:47,602-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:20:15,692-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:20:15,915-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:20:16,416-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:20:16,626-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21059298515319824
+2024-07-01 06:20:21,383-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:20:21,453-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:20:21,453-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:20:21,519-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:20:21,519-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:20:21,579-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:20:21,580-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:20:21,641-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:20:21,641-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:20:21,701-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:20:21,701-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:20:21,761-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:20:22,126-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:20:22,126-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:20:22,817-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:20:28,006-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:21:15,573-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:21:15,795-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:21:16,298-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:21:16,509-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21119141578674316
+2024-07-01 06:21:21,266-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:21:21,331-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:21:21,332-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:21:21,392-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:21:21,392-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:21:21,453-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:21:21,453-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:21:21,515-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:21:21,515-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:21:21,575-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:21:21,576-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:21:21,635-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:21:21,998-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:21:21,999-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:21:25,207-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:21:30,175-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:21:52,446-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:21:52,670-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:21:53,171-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:21:53,382-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21076393127441406
+2024-07-01 06:21:58,142-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:21:58,209-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:21:58,209-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:21:58,270-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:21:58,271-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:21:58,332-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:21:58,332-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:21:58,394-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:21:58,394-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:21:58,455-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:21:58,455-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:21:58,516-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:21:58,879-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:21:58,880-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:22:00,134-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:22:05,225-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:22:32,070-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:22:32,294-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:22:32,795-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:22:33,006-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21146297454833984
+2024-07-01 06:22:37,763-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:22:37,833-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:22:37,834-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:22:37,897-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:22:37,897-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:22:37,961-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:22:37,961-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:22:38,024-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:22:38,025-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:22:38,089-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:22:38,089-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:22:38,151-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:22:38,515-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:22:38,515-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:23:09,737-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:23:09,959-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:23:10,461-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:23:10,672-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2112593650817871
+2024-07-01 06:23:15,426-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:23:15,495-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:23:15,495-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:23:15,557-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:23:15,557-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:23:15,619-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:23:15,619-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:23:15,681-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:23:15,681-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:23:15,742-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:23:15,742-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:23:15,803-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:23:16,166-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:23:16,166-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:23:17,201-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:23:22,622-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:23:52,789-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:23:53,012-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:23:53,513-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:23:53,723-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2105569839477539
+2024-07-01 06:23:58,477-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:23:58,546-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:23:58,546-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:23:58,611-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:23:58,611-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:23:58,675-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:23:58,675-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:23:58,739-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:23:58,739-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:23:58,803-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:23:58,803-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:23:58,866-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:23:59,230-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:23:59,230-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:23:59,701-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:24:04,600-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:24:44,605-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:24:44,829-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:24:45,328-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:24:45,538-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2105884552001953
+2024-07-01 06:24:50,294-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:24:50,362-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:24:50,362-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:24:50,423-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:24:50,424-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:24:50,485-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:24:50,485-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:24:50,546-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:24:50,547-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:24:50,607-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:24:50,607-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:24:50,668-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:24:51,031-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:24:51,032-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:24:52,629-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:24:58,279-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:25:18,879-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:25:24,398-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:25:27,290-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:25:41,092-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:26:17,506-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:26:22,927-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:26:28,725-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:26:35,209-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:27:29,616-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:27:35,019-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:29:58,982-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:29:59,205-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:29:59,703-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:29:59,914-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21117448806762695
+2024-07-01 06:30:04,679-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:30:04,747-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:30:04,747-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:30:04,811-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:30:04,811-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:30:04,873-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:30:04,874-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:30:04,936-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:30:04,936-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:30:04,999-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:30:04,999-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:30:05,062-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:30:05,425-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:30:05,425-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:30:32,423-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:30:51,211-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:38:02,986-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:38:03,209-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:38:03,714-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:38:03,926-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21118569374084473
+2024-07-01 06:38:08,689-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:38:08,753-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:38:08,754-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:38:08,813-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:38:08,814-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:38:08,874-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:38:08,874-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:38:08,934-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:38:08,934-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:38:08,993-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:38:08,993-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:38:09,052-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:38:09,416-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:38:09,416-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:38:27,445-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:38:27,670-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 06:38:28,172-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 06:38:28,383-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21094846725463867
+2024-07-01 06:38:33,148-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 06:38:33,213-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 06:38:33,213-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 06:38:33,275-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 06:38:33,275-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 06:38:33,336-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 06:38:33,336-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 06:38:33,396-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 06:38:33,397-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 06:38:33,457-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 06:38:33,457-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 06:38:33,517-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 06:38:33,881-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 06:38:33,882-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 06:38:38,569-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:38:50,886-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 06:39:19,120-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 06:39:35,948-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:27:46,541-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:27:46,778-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:27:47,271-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 19:27:47,481-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21091032028198242
+2024-07-01 19:27:49,637-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,638-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,638-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,639-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,639-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,640-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,640-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,640-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,641-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,641-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,641-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,642-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,642-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,643-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,643-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,643-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,644-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,644-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,644-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,645-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,645-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,646-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,646-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,646-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,647-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,647-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,648-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,648-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,648-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,649-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,649-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,649-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,650-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,650-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,651-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,651-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,651-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,652-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,652-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,652-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,653-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,653-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,654-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,654-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,654-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,655-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,655-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,656-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,656-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,656-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,657-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,657-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,658-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,658-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,659-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,659-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,659-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,660-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,660-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,660-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,661-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,661-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,662-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,662-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,662-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,663-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,663-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,664-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,664-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,664-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,665-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,665-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,665-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,666-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,666-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,667-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,667-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,667-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,668-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,668-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,668-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,669-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,669-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,669-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,670-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,670-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,671-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,671-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,671-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,672-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,672-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,672-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,673-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,673-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,673-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,674-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,674-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,675-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,675-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,675-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,676-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,676-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,676-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,677-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,677-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,677-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,678-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,678-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,679-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,679-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,679-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,680-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,680-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,680-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,681-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,681-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,681-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,682-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,682-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,683-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,683-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,683-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,684-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,684-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,684-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,685-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,685-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,685-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,686-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,686-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,687-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,687-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,687-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,688-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,688-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,689-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,689-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,689-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,690-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,690-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,690-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,691-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,691-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,692-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,692-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,692-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,693-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,693-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,693-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,694-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,694-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,694-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,695-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,695-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,696-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,696-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,696-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,697-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,697-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,697-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,698-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,698-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,699-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,699-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,699-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,700-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,700-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,700-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,701-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,701-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,701-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,702-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,702-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,703-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,703-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,703-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,704-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,704-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,704-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,705-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,705-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,705-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,706-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,706-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,707-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,707-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,707-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,708-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,708-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,708-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,709-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,709-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,710-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,710-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,711-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,711-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,711-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,712-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,712-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,712-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,713-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,713-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,713-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,714-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,714-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,715-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,715-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,715-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,716-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,716-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,716-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,717-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,717-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,717-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,718-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,718-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,719-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,719-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,719-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,720-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,720-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,720-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,721-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,721-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,721-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,722-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,722-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,723-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,723-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,723-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,724-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,724-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,724-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,725-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,725-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,726-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,726-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,726-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,727-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,727-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,727-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,728-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,728-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,729-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,729-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,729-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,730-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,730-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,730-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,731-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,731-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,732-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,732-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,732-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,733-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,733-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,733-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,734-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,734-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,735-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,735-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,735-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,736-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,736-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,736-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,737-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,737-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,737-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,738-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,738-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,739-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,739-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,739-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,740-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,740-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,740-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,741-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,741-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,741-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,742-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,742-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,743-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,743-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,743-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,744-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,744-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,744-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,745-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,745-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,746-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,746-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,746-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,747-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,747-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,747-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,748-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,748-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,748-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,749-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,749-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,750-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,750-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,751-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,751-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,751-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,752-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,752-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,752-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,753-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,753-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,753-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,754-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,754-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,755-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,755-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,755-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,756-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,756-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,756-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,757-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,757-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,757-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,758-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,758-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,759-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,759-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,759-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,760-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,760-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,760-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,761-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,761-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,762-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,762-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,762-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,763-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,763-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,763-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,764-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:49,764-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-01 19:27:50,959-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 19:27:51,031-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 19:27:51,031-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 19:27:51,096-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 19:27:51,097-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 19:27:51,162-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 19:27:51,162-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 19:27:51,227-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 19:27:51,227-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 19:27:51,291-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 19:27:51,292-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 19:27:51,355-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 19:27:51,717-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 19:27:51,718-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 19:27:53,485-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:28:24,121-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:29:01,868-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:29:02,092-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:29:02,593-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 19:29:02,804-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21097421646118164
+2024-07-01 19:29:07,567-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 19:29:07,637-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 19:29:07,637-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 19:29:07,701-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 19:29:07,702-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 19:29:07,767-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 19:29:07,767-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 19:29:07,831-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 19:29:07,831-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 19:29:07,895-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 19:29:07,895-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 19:29:07,959-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 19:29:08,322-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 19:29:08,323-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 19:29:11,686-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:29:37,143-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:29:54,744-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:30:08,188-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:30:39,462-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:30:52,156-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:39:32,919-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:39:45,243-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:40:45,986-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:40:46,210-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:40:46,712-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 19:40:46,923-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21106505393981934
+2024-07-01 19:40:51,684-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 19:40:51,754-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 19:40:51,755-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 19:40:51,818-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 19:40:51,818-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 19:40:51,880-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 19:40:51,881-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 19:40:51,943-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 19:40:51,943-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 19:40:52,004-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 19:40:52,004-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 19:40:52,066-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 19:40:52,429-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 19:40:52,429-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 19:41:11,956-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:41:28,133-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:41:43,562-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:41:58,009-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:42:37,843-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:42:38,066-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:42:38,565-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 19:42:38,776-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21061325073242188
+2024-07-01 19:42:43,532-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 19:42:43,597-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 19:42:43,597-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 19:42:43,660-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 19:42:43,660-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 19:42:43,722-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 19:42:43,723-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 19:42:43,785-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 19:42:43,786-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 19:42:43,848-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 19:42:43,848-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 19:42:43,909-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 19:42:44,273-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 19:42:44,273-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 19:42:44,692-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:43:04,564-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:43:22,066-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:43:22,288-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:43:22,786-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 19:43:22,998-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21105527877807617
+2024-07-01 19:43:27,761-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 19:43:27,831-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 19:43:27,831-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 19:43:27,894-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 19:43:27,895-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 19:43:27,957-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 19:43:27,957-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 19:43:28,020-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 19:43:28,020-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 19:43:28,081-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 19:43:28,082-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 19:43:28,143-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 19:43:28,506-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 19:43:28,507-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 19:43:31,359-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:43:44,001-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:44:20,202-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:44:32,964-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:44:46,674-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:44:59,117-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:51:51,366-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:51:51,590-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:51:52,091-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 19:51:52,302-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21086883544921875
+2024-07-01 19:51:57,053-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 19:51:57,121-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 19:51:57,121-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 19:51:57,183-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 19:51:57,184-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 19:51:57,246-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 19:51:57,246-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 19:51:57,308-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 19:51:57,309-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 19:51:57,370-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 19:51:57,370-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 19:51:57,431-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 19:51:57,794-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 19:51:57,795-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 19:52:03,025-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:52:15,256-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:53:23,722-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:53:23,946-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 19:53:24,444-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 19:53:24,656-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2126004695892334
+2024-07-01 19:53:29,417-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 19:53:29,489-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 19:53:29,489-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 19:53:29,552-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 19:53:29,552-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 19:53:29,615-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 19:53:29,615-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 19:53:29,677-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 19:53:29,678-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 19:53:29,739-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 19:53:29,739-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 19:53:29,801-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 19:53:30,165-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 19:53:30,165-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 19:53:32,710-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 19:53:45,272-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 19:54:05,636-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:01:39,162-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:01:39,386-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:01:39,885-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 20:01:40,096-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2110292911529541
+2024-07-01 20:01:44,854-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 20:01:44,919-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 20:01:44,919-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 20:01:44,980-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 20:01:44,981-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 20:01:45,042-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 20:01:45,042-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 20:01:45,103-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 20:01:45,104-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 20:01:45,164-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 20:01:45,164-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 20:01:45,224-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 20:01:45,587-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 20:01:45,588-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 20:01:51,046-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 20:01:52,075-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:02:01,974-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:02:44,656-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:02:44,879-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:02:45,380-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 20:02:45,591-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2109661102294922
+2024-07-01 20:02:50,349-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 20:02:50,418-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 20:02:50,418-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 20:02:50,480-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 20:02:50,480-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 20:02:50,542-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 20:02:50,542-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 20:02:50,603-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 20:02:50,604-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 20:02:50,665-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 20:02:50,665-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 20:02:50,725-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 20:02:51,089-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 20:02:51,089-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 20:02:52,337-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 20:02:53,543-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:03:02,652-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:11:54,764-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:11:54,987-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:11:55,489-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 20:11:55,701-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2113933563232422
+2024-07-01 20:12:00,461-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 20:12:00,530-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 20:12:00,530-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 20:12:00,594-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 20:12:00,594-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 20:12:00,657-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 20:12:00,657-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 20:12:00,721-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 20:12:00,721-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 20:12:00,783-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 20:12:00,784-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 20:12:00,846-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 20:12:01,209-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 20:12:01,210-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 20:12:03,283-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 20:12:06,516-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:12:15,253-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:18:00,811-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:18:01,034-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:18:01,537-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 20:18:01,749-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21156954765319824
+2024-07-01 20:18:06,512-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 20:18:06,580-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 20:18:06,581-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 20:18:06,646-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 20:18:06,647-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 20:18:06,711-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 20:18:06,711-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 20:18:06,775-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 20:18:06,775-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 20:18:06,839-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 20:18:06,839-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 20:18:06,902-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 20:18:07,266-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 20:18:07,266-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 20:18:08,170-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 20:18:10,111-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:18:19,941-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:18:44,503-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:18:53,683-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:20:02,086-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:20:02,309-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:20:02,807-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 20:20:03,018-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21086907386779785
+2024-07-01 20:20:07,772-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 20:20:07,842-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 20:20:07,843-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 20:20:07,905-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 20:20:07,906-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 20:20:07,967-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 20:20:07,968-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 20:20:08,029-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 20:20:08,030-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 20:20:08,091-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 20:20:08,092-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 20:20:08,152-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 20:20:08,515-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 20:20:08,516-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 20:20:09,243-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 20:20:09,752-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:20:19,287-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:21:10,923-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:21:11,147-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 20:21:11,647-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 20:21:11,858-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21078872680664062
+2024-07-01 20:21:16,612-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 20:21:16,681-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 20:21:16,681-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 20:21:16,744-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 20:21:16,744-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 20:21:16,806-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 20:21:16,806-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 20:21:16,869-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 20:21:16,869-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 20:21:16,932-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 20:21:16,932-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 20:21:16,994-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 20:21:17,357-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 20:21:17,358-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 20:21:18,002-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 20:21:18,422-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:21:27,999-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:22:21,988-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:22:31,832-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 20:22:38,964-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 20:22:47,975-car_wrap.py-[line:752]-INFO-[log]:all_task
+                                                                                                                                                2024-07-01 22:29:13,736-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:29:13,959-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:29:14,630-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:29:14,842-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21128106117248535
+2024-07-01 22:29:19,603-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:29:19,672-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-01 22:29:41,407-infer_front.py-[line:123]-INFO-[log]:
+2024-07-01 22:29:41,408-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:29:41,408-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:29:41,471-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:29:41,472-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:29:41,532-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:29:41,533-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:29:41,592-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:29:41,593-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:29:41,652-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:29:41,653-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:29:41,711-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:29:42,075-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:29:42,075-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:29:57,604-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:30:10,249-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:30:20,928-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 22:32:37,111-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:32:37,333-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:32:37,833-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:32:38,044-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21089673042297363
+2024-07-01 22:32:42,805-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:32:42,871-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:32:42,872-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:32:42,932-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:32:42,932-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:32:42,992-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:32:42,992-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:32:43,052-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:32:43,052-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:32:43,111-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:32:43,112-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:32:43,170-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:32:43,533-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:32:43,534-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:33:25,116-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:33:37,582-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:34:09,662-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 22:51:03,960-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:51:04,183-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:51:04,686-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:51:04,897-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21097660064697266
+2024-07-01 22:51:09,653-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:51:09,720-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:51:09,721-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:51:09,781-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:51:09,781-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:51:09,841-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:51:09,841-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:51:09,901-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:51:09,902-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:51:09,961-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:51:09,962-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:51:10,021-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:51:10,384-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:51:10,385-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:51:20,157-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:51:23,896-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:51:34,772-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 22:53:08,368-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:53:08,591-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:53:09,095-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:53:09,306-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21103858947753906
+2024-07-01 22:53:14,068-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:53:14,139-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:53:14,140-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:53:14,204-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:53:14,204-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:53:14,268-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:53:14,268-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:53:14,331-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:53:14,331-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:53:14,395-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:53:14,395-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:53:14,459-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:53:14,823-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:53:14,823-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:53:16,460-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:53:17,318-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:53:25,799-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 22:53:46,689-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:53:46,911-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:53:47,416-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:53:47,627-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21129512786865234
+2024-07-01 22:53:52,381-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:53:52,445-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:53:52,445-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:53:52,505-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:53:52,505-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:53:52,566-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:53:52,567-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:53:52,627-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:53:52,627-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:53:52,687-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:53:52,687-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:53:52,747-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:53:53,113-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:53:53,114-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:53:53,930-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:53:54,440-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:54:03,691-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 22:54:38,161-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:54:38,384-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:54:38,888-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:54:39,101-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2124950885772705
+2024-07-01 22:54:43,856-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:54:43,924-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:54:43,924-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:54:43,985-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:54:43,985-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:54:44,045-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:54:44,046-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:54:44,108-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:54:44,109-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:54:44,172-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:54:44,172-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:54:44,236-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:54:44,600-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:54:44,600-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:54:47,268-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:54:48,035-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:54:51,966-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 22:55:09,203-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:55:09,426-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:55:09,925-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:55:10,136-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2111825942993164
+2024-07-01 22:55:14,893-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:55:14,960-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:55:14,960-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:55:15,021-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:55:15,021-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:55:15,081-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:55:15,081-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:55:15,144-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:55:15,145-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:55:15,206-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:55:15,207-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:55:15,269-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:55:15,632-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:55:15,633-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:55:16,401-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:55:16,778-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:55:22,293-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 22:55:51,948-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:55:52,171-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:55:52,674-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:55:52,885-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21053361892700195
+2024-07-01 22:55:57,640-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:55:57,703-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:55:57,704-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:55:57,764-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:55:57,765-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:55:57,824-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:55:57,825-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:55:57,885-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:55:57,885-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:55:57,945-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:55:57,946-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:55:58,005-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:55:58,369-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:55:58,369-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:55:59,142-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:55:59,561-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:56:05,197-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 22:59:43,082-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:59:43,305-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 22:59:43,808-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 22:59:44,019-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21123361587524414
+2024-07-01 22:59:48,775-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 22:59:48,843-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 22:59:48,844-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 22:59:48,904-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 22:59:48,904-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 22:59:48,964-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 22:59:48,964-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 22:59:49,023-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 22:59:49,023-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 22:59:49,082-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 22:59:49,083-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 22:59:49,146-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 22:59:49,509-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 22:59:49,509-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 22:59:49,980-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 22:59:50,489-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 22:59:56,785-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:01:38,814-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:01:39,036-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:01:39,536-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:01:39,748-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21142840385437012
+2024-07-01 23:01:44,506-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:01:44,573-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:01:44,573-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:01:44,634-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:01:44,634-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:01:44,695-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:01:44,696-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:01:44,756-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:01:44,757-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:01:44,817-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:01:44,817-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:01:44,877-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:01:45,240-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:01:45,240-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:01:46,052-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:01:46,778-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:01:53,721-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:03:41,599-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:03:41,822-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:03:42,322-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:03:42,533-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21114492416381836
+2024-07-01 23:03:47,293-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:03:47,359-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:03:47,360-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:03:47,420-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:03:47,420-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:03:47,481-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:03:47,481-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:03:47,541-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:03:47,541-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:03:47,601-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:03:47,602-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:03:47,662-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:03:48,024-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:03:48,025-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:03:49,057-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:03:49,477-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:03:56,241-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:04:41,353-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:04:41,575-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:04:42,073-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:04:42,283-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2104778289794922
+2024-07-01 23:04:47,036-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:04:47,104-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:04:47,105-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:04:47,166-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:04:47,166-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:04:47,226-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:04:47,227-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:04:47,288-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:04:47,288-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:04:47,348-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:04:47,348-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:04:47,408-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:04:47,773-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:04:47,773-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:04:48,895-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:04:49,487-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:04:56,574-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:06:39,287-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:06:39,511-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:06:40,013-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:06:40,224-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21119427680969238
+2024-07-01 23:06:44,981-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:06:45,048-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:06:45,048-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:06:45,109-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:06:45,110-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:06:45,169-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:06:45,170-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:06:45,230-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:06:45,230-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:06:45,289-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:06:45,290-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:06:45,349-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:06:45,713-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:06:45,713-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:06:46,486-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:06:46,907-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:06:54,072-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:08:28,701-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:08:42,407-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:09:43,998-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:09:44,220-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:09:44,727-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:09:44,938-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21059155464172363
+2024-07-01 23:09:49,690-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:09:49,753-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:09:49,754-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:09:49,815-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:09:49,816-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:09:49,876-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:09:49,877-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:09:49,938-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:09:49,938-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:09:49,998-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:09:49,998-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:09:50,058-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:09:50,421-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:09:50,422-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:09:51,070-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:09:51,534-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:09:58,493-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:11:05,763-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:11:05,987-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:11:06,491-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:11:06,702-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21134448051452637
+2024-07-01 23:11:11,455-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:11:11,525-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:11:11,526-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:11:11,590-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:11:11,590-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:11:11,653-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:11:11,653-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:11:11,716-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:11:11,716-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:11:11,779-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:11:11,780-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:11:11,842-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:11:12,205-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:11:12,206-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:11:12,591-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:11:13,576-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:11:21,370-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:13:05,138-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:13:05,361-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:13:05,864-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:13:06,075-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21134138107299805
+2024-07-01 23:13:10,832-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:13:10,903-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:13:10,903-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:13:10,967-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:13:10,967-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:13:11,032-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:13:11,032-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:13:11,095-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:13:11,095-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:13:11,160-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:13:11,160-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:13:11,220-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:13:11,583-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:13:11,584-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:13:12,270-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:13:12,649-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:13:21,148-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:16:09,642-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:16:09,865-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:16:10,365-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:16:10,575-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.210432767868042
+2024-07-01 23:16:15,331-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:16:15,396-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:16:15,397-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:16:15,457-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:16:15,458-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:16:15,517-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:16:15,518-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:16:15,578-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:16:15,578-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:16:15,638-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:16:15,638-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:16:15,698-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:16:16,061-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:16:16,061-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:16:17,352-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:16:17,861-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:16:26,107-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:18:07,006-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:18:07,229-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:18:07,733-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:18:07,944-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2111058235168457
+2024-07-01 23:18:12,702-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:18:12,766-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:18:12,767-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:18:12,827-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:18:12,827-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:18:12,888-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:18:12,888-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:18:12,948-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:18:12,949-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:18:13,008-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:18:13,008-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:18:13,068-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:18:13,433-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:18:13,434-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:18:14,122-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:18:14,889-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:18:25,168-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:20:09,636-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:20:09,858-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:20:10,361-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:20:10,572-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21117115020751953
+2024-07-01 23:20:15,327-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:20:15,397-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:20:15,397-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:20:15,459-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:20:15,459-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:20:15,519-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:20:15,520-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:20:15,580-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:20:15,581-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:20:15,641-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:20:15,641-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:20:15,701-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:20:16,064-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:20:16,064-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:20:21,145-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:20:21,870-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:20:30,280-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:21:12,857-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:21:13,081-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:21:13,584-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:21:13,795-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21112823486328125
+2024-07-01 23:21:18,558-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:21:18,647-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:21:18,647-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:21:18,708-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:21:18,709-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:21:18,769-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:21:18,770-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:21:18,831-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:21:18,831-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:21:18,891-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:21:18,891-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:21:18,951-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:21:19,315-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:21:19,315-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:21:23,765-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:21:25,482-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:21:34,373-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:22:17,032-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:22:17,254-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:22:17,757-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:22:17,968-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2111809253692627
+2024-07-01 23:22:22,721-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:22:22,809-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:22:22,809-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:22:22,873-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:22:22,874-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:22:22,937-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:22:22,937-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:22:23,000-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:22:23,000-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:22:23,063-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:22:23,063-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:22:23,125-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:22:23,489-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:22:23,489-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:22:24,349-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:22:24,817-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:22:33,587-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-01 23:23:13,541-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:23:13,765-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-01 23:23:14,269-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-07-01 23:23:14,480-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21132636070251465
+2024-07-01 23:23:19,232-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-01 23:23:19,296-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-01 23:23:19,297-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-01 23:23:19,379-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-01 23:23:19,379-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-01 23:23:19,440-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-01 23:23:19,440-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-01 23:23:19,506-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-01 23:23:19,507-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-01 23:23:19,567-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-01 23:23:19,567-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-01 23:23:19,627-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-01 23:23:19,991-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-01 23:23:19,992-car_wrap.py-[line:668]-INFO-[log]:['grap_block_func', 'release_block_func', 'all_task', 'lane_test', 'debug']
+2024-07-01 23:23:21,809-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-01 23:23:22,230-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-01 23:23:30,514-car_wrap.py-[line:752]-INFO-[log]:all_task

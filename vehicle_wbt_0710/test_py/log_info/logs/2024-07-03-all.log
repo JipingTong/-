@@ -1,0 +1,26 @@
+2024-07-03 00:22:33,630-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-03 00:22:33,854-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-07-03 00:22:34,543-vehicle_base2.py-[line:518]-INFO-[log]:mecanum init
+2024-07-03 00:22:34,754-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21108388900756836
+2024-07-03 00:22:39,525-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-03 00:22:39,599-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-03 00:23:01,375-infer_front.py-[line:123]-INFO-[log]:
+2024-07-03 00:23:01,376-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-03 00:23:01,377-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-03 00:23:01,447-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-03 00:23:01,448-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-03 00:23:01,513-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-03 00:23:01,513-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-03 00:23:01,579-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-03 00:23:01,579-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-03 00:23:01,643-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-03 00:23:01,644-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-03 00:23:01,708-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-03 00:23:02,072-car_wrap.py-[line:665]-INFO-[log]:4
+2024-07-03 00:23:02,072-car_wrap.py-[line:668]-INFO-[log]:['jixiebi', 'grap_block_func', 'release_block_func', 'elevation_pole_func', 'get_high_ball_func', 'camp_fun', 'go_start', 'all_task', 'lane_test', 'debug']
+2024-07-03 00:23:22,304-car_wrap.py-[line:752]-INFO-[log]:elevation_pole_func
+2024-07-03 00:23:23,032-car_wrap.py-[line:752]-INFO-[log]:release_block_func
+2024-07-03 00:23:23,712-car_wrap.py-[line:752]-INFO-[log]:grap_block_func
+2024-07-03 00:23:24,394-car_wrap.py-[line:752]-INFO-[log]:jixiebi
+2024-07-03 00:23:25,120-car_wrap.py-[line:752]-INFO-[log]:debug
+2024-07-03 00:23:26,233-car_wrap.py-[line:752]-INFO-[log]:jixiebi

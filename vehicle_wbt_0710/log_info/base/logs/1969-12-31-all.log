@@ -1,0 +1,96 @@
+1969-12-31 16:01:01,955-controller2.py-[line:305]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+1969-12-31 16:01:02,680-vehicle_base2.py-[line:515]-INFO-[log]:mecanum init
+1969-12-31 16:01:02,891-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21017024000000362
+1969-12-31 16:01:07,968-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+1969-12-31 16:01:08,029-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-30 20:38:36,417-infer_front.py-[line:123]-INFO-[log]:
+2024-07-30 20:38:36,422-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-30 20:38:36,423-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-30 20:38:36,512-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-30 20:38:36,512-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-30 20:38:36,569-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-30 20:38:36,570-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-30 20:38:36,627-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-30 20:38:36,627-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-30 20:38:36,684-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-30 20:38:36,685-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-30 20:38:36,740-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-30 20:38:37,750-car_wrap.py-[line:669]-INFO-[log]:7
+2024-07-30 20:38:37,751-car_wrap.py-[line:671]-INFO-[log]:['grap_block_func', 'release_block_func', 'get_ball_func', 'elevation_pole_func', 'get_high_ball_func', 'pull_ball_func', 'hanoi_tower_func', 'camp_fun', 'find_criminal', 'go_start', 'all_task', 'lane_test', 'xunhang', 'debug']
+2024-07-30 20:38:43,911-car_wrap.py-[line:752]-INFO-[log]:find_criminal
+2024-07-30 20:38:46,250-car_wrap.py-[line:752]-INFO-[log]:go_start
+1969-12-31 16:00:57,976-controller2.py-[line:305]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+1969-12-31 16:00:58,700-vehicle_base2.py-[line:515]-INFO-[log]:mecanum init
+1969-12-31 16:00:58,911-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21104108800000176
+2024-07-31 02:17:10,960-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-07-31 02:17:11,045-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-31 02:17:40,979-infer_front.py-[line:123]-INFO-[log]:
+2024-07-31 02:17:40,984-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-31 02:17:40,986-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-31 02:17:41,070-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-31 02:17:41,071-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-31 02:17:41,128-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-31 02:17:41,128-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-31 02:17:41,185-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-31 02:17:41,186-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-31 02:17:41,242-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-31 02:17:41,242-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-31 02:17:41,298-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-31 02:17:41,664-car_wrap.py-[line:669]-INFO-[log]:7
+2024-07-31 02:17:41,665-car_wrap.py-[line:671]-INFO-[log]:['grap_block_func', 'release_block_func', 'get_ball_func', 'elevation_pole_func', 'get_high_ball_func', 'pull_ball_func', 'hanoi_tower_func', 'camp_fun', 'find_criminal', 'go_start', 'all_task', 'lane_test', 'xunhang', 'debug']
+2024-07-31 02:17:44,721-car_wrap.py-[line:752]-INFO-[log]:find_criminal
+2024-07-31 02:17:46,529-car_wrap.py-[line:752]-INFO-[log]:go_start
+2024-07-31 02:17:47,905-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-31 02:17:49,229-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-31 02:17:50,398-car_wrap.py-[line:752]-INFO-[log]:xunhang
+1969-12-31 16:25:51,627-controller2.py-[line:305]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+1969-12-31 16:25:52,355-vehicle_base2.py-[line:515]-INFO-[log]:mecanum init
+1969-12-31 16:25:52,566-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21125497600019116
+1969-12-31 16:25:57,654-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+1969-12-31 16:25:57,720-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-07-31 02:42:33,792-infer_front.py-[line:123]-INFO-[log]:
+2024-07-31 02:42:33,798-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-07-31 02:42:33,798-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-07-31 02:42:33,879-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-07-31 02:42:33,880-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-07-31 02:42:33,936-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-07-31 02:42:33,936-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-07-31 02:42:33,992-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-07-31 02:42:33,993-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-07-31 02:42:34,048-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-07-31 02:42:34,049-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-07-31 02:42:34,103-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-07-31 02:42:34,469-car_wrap.py-[line:669]-INFO-[log]:7
+2024-07-31 02:42:34,470-car_wrap.py-[line:671]-INFO-[log]:['grap_block_func', 'release_block_func', 'get_ball_func', 'elevation_pole_func', 'get_high_ball_func', 'pull_ball_func', 'hanoi_tower_func', 'camp_fun', 'find_criminal', 'go_start', 'all_task', 'lane_test', 'xunhang', 'debug']
+2024-07-31 02:42:43,143-car_wrap.py-[line:752]-INFO-[log]:hanoi_tower_func
+2024-07-31 02:42:43,618-car_wrap.py-[line:752]-INFO-[log]:pull_ball_func
+2024-07-31 02:42:44,141-car_wrap.py-[line:752]-INFO-[log]:hanoi_tower_func
+2024-07-31 02:42:44,506-car_wrap.py-[line:752]-INFO-[log]:camp_fun
+2024-07-31 02:42:45,349-car_wrap.py-[line:752]-INFO-[log]:find_criminal
+2024-07-31 02:42:45,873-car_wrap.py-[line:752]-INFO-[log]:go_start
+2024-07-31 02:42:52,809-car_wrap.py-[line:752]-INFO-[log]:all_task
+2024-07-31 02:42:54,723-car_wrap.py-[line:752]-INFO-[log]:lane_test
+2024-07-31 02:42:56,970-car_wrap.py-[line:752]-INFO-[log]:xunhang
+1969-12-31 16:03:51,570-controller2.py-[line:305]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+1969-12-31 16:03:52,300-vehicle_base2.py-[line:515]-INFO-[log]:mecanum init
+1969-12-31 16:03:52,511-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2112414400000091
+2024-08-02 05:57:32,018-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-08-02 05:57:32,095-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-08-02 05:58:01,871-infer_front.py-[line:123]-INFO-[log]:
+2024-08-02 05:58:01,877-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-08-02 05:58:01,878-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-08-02 05:58:01,966-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-08-02 05:58:01,966-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-08-02 05:58:02,024-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-08-02 05:58:02,024-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-08-02 05:58:02,082-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-08-02 05:58:02,082-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-08-02 05:58:02,139-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-08-02 05:58:02,140-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-08-02 05:58:02,196-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-08-02 05:58:02,562-car_wrap.py-[line:670]-INFO-[log]:8
+2024-08-02 05:58:02,563-car_wrap.py-[line:672]-INFO-[log]:['grap_block_func', 'release_block_func', 'get_ball_func', 'elevation_pole_func', 'get_high_ball_func', 'pull_ball_func', 'hanoi_tower_func', 'camp_fun', 'find_criminal', 'go_start', 'all_task', 'lane_test', 'xunhang', 'debug']
+2024-08-02 05:59:13,534-car_wrap.py-[line:753]-INFO-[log]:go_start
+2024-08-02 05:59:13,846-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-08-02 05:59:14,317-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-08-02 05:59:14,684-car_wrap.py-[line:753]-INFO-[log]:xunhang

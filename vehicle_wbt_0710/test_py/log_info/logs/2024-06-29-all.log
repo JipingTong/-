@@ -1,0 +1,1888 @@
+2024-06-29 00:45:51,440-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:45:51,664-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:45:52,168-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 00:45:52,379-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21161317825317383
+2024-06-29 00:45:55,020-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 00:45:55,085-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 00:45:55,085-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 00:45:55,144-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 00:45:55,144-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 00:45:55,203-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 00:45:55,204-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 00:45:55,263-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 00:45:55,263-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 00:45:55,322-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 00:45:55,322-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 00:45:55,380-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 00:45:55,743-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 00:45:55,743-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 00:46:03,988-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 00:46:04,538-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 00:46:05,048-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:46:06,341-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 00:48:29,902-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:48:30,126-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:48:30,632-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 00:48:30,844-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21121454238891602
+2024-06-29 00:48:33,484-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 00:48:33,570-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 00:48:33,571-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 00:48:33,631-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 00:48:33,631-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 00:48:33,691-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 00:48:33,692-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 00:48:33,752-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 00:48:33,752-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 00:48:33,811-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 00:48:33,812-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 00:48:33,871-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 00:48:34,234-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 00:48:34,234-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 00:48:58,639-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 00:48:59,447-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 00:48:59,827-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:49:00,767-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 00:53:16,666-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:53:16,890-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:53:17,393-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 00:53:17,604-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21119117736816406
+2024-06-29 00:53:20,245-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 00:53:20,311-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 00:53:20,312-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 00:53:20,372-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 00:53:20,372-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 00:53:20,432-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 00:53:20,433-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 00:53:20,493-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 00:53:20,493-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 00:53:20,552-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 00:53:20,553-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 00:53:20,611-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 00:53:20,975-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 00:53:20,975-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 00:53:26,855-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 00:53:27,752-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 00:53:28,261-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:53:32,669-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 00:53:36,209-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:53:36,761-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 00:53:39,542-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:54:14,742-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:54:14,965-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:54:15,469-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 00:54:15,680-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21078157424926758
+2024-06-29 00:54:18,320-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 00:54:18,389-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 00:54:18,390-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 00:54:18,450-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 00:54:18,451-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 00:54:18,511-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 00:54:18,511-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 00:54:18,571-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 00:54:18,572-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 00:54:18,631-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 00:54:18,632-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 00:54:18,691-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 00:54:19,055-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 00:54:19,055-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 00:54:22,601-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 00:54:23,587-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 00:54:24,310-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:54:27,200-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 00:54:29,863-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:54:49,574-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:54:49,797-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 00:54:50,299-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 00:54:50,510-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21096277236938477
+2024-06-29 00:54:52,683-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 00:54:52,751-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 00:54:52,751-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 00:54:52,812-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 00:54:52,812-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 00:54:52,872-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 00:54:52,873-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 00:54:52,933-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 00:54:52,934-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 00:54:52,994-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 00:54:52,995-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 00:54:53,054-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 00:54:53,418-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 00:54:53,418-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 00:55:02,505-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 00:55:02,927-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 00:55:05,429-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:55:06,498-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 00:55:08,853-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:55:23,929-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 00:55:26,472-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 00:55:37,373-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 00:55:39,561-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:00:05,040-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 01:00:05,264-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 01:00:05,759-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 01:00:05,970-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21129488945007324
+2024-06-29 01:00:08,604-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 01:00:08,670-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 01:00:08,670-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 01:00:08,733-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 01:00:08,733-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 01:00:08,795-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 01:00:08,796-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 01:00:08,859-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 01:00:08,859-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 01:00:08,921-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 01:00:08,921-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 01:00:08,982-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 01:00:09,345-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 01:00:09,346-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 01:00:21,483-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 01:00:21,858-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 01:00:22,969-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:00:23,740-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 01:00:26,166-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:01:18,568-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 01:01:18,792-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 01:01:19,295-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 01:01:19,506-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21135401725769043
+2024-06-29 01:01:22,140-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 01:01:22,208-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 01:01:22,208-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 01:01:22,272-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 01:01:22,272-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 01:01:22,335-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 01:01:22,336-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 01:01:22,398-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 01:01:22,398-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 01:01:22,458-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 01:01:22,459-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 01:01:22,519-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 01:01:22,883-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 01:01:22,883-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 01:01:36,057-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 01:01:36,348-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 01:01:37,284-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:01:39,138-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 01:01:40,402-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:57:44,254-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 01:57:44,477-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 01:57:45,152-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 01:57:45,363-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21103310585021973
+2024-06-29 01:57:48,012-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 01:57:48,078-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-06-29 01:58:09,853-infer_front.py-[line:123]-INFO-[log]:
+2024-06-29 01:58:09,854-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 01:58:09,854-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 01:58:09,922-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 01:58:09,923-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 01:58:09,983-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 01:58:09,984-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 01:58:10,044-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 01:58:10,044-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 01:58:10,105-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 01:58:10,105-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 01:58:10,165-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 01:58:10,529-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 01:58:10,529-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 01:58:16,208-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 01:58:16,932-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 01:58:17,615-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:58:19,168-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 01:58:23,862-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:58:41,306-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 01:58:44,231-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:59:33,781-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 01:59:34,004-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 01:59:34,512-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 01:59:34,723-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21121907234191895
+2024-06-29 01:59:37,361-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 01:59:37,427-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 01:59:37,428-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 01:59:37,489-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 01:59:37,489-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 01:59:37,550-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 01:59:37,550-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 01:59:37,610-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 01:59:37,611-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 01:59:37,670-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 01:59:37,671-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 01:59:37,730-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 01:59:38,093-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 01:59:38,094-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 01:59:49,384-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 01:59:49,893-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 01:59:50,919-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 01:59:52,292-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 01:59:54,519-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:01:42,042-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:01:42,264-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:01:42,763-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:01:42,974-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21101117134094238
+2024-06-29 02:01:45,611-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:01:45,676-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:01:45,676-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:01:45,738-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:01:45,739-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:01:45,800-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:01:45,800-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:01:45,862-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:01:45,862-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:01:45,923-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:01:45,924-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:01:45,984-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:01:46,348-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:01:46,348-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:02:04,239-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:02:04,462-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:02:04,965-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:02:05,176-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2114710807800293
+2024-06-29 02:02:07,818-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:02:07,882-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:02:07,882-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:02:07,943-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:02:07,944-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:02:08,006-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:02:08,007-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:02:08,074-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:02:08,074-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:02:08,135-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:02:08,135-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:02:08,195-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:02:08,559-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:02:08,559-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:02:35,209-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 02:02:35,934-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 02:02:36,573-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:02:37,300-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 02:02:40,212-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:05:35,124-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:05:35,348-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:05:35,850-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:05:36,061-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21097040176391602
+2024-06-29 02:05:39,710-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:05:39,781-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:05:39,782-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:05:39,844-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:05:39,844-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:05:39,908-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:05:39,908-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:05:39,970-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:05:39,971-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:05:40,034-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:05:40,034-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:05:40,095-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:05:40,459-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:05:40,459-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:09:41,085-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:09:41,308-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:09:41,811-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:09:42,022-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21059298515319824
+2024-06-29 02:09:45,683-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:09:45,750-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:09:45,750-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:09:45,811-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:09:45,812-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:09:45,872-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:09:45,872-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:09:45,931-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:09:45,931-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:09:45,991-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:09:45,991-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:09:46,050-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:09:46,413-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:09:46,413-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:10:11,744-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:10:11,966-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:10:49,599-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:10:49,823-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:11:58,266-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:11:58,489-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:12:37,518-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:12:37,742-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:12:57,260-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:12:57,482-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:13:22,945-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:13:23,167-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:14:14,983-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:14:15,207-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:15:39,138-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:15:39,360-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:16:27,873-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:16:28,095-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:25:20,854-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:25:21,077-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:25:21,578-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:25:21,789-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2108631134033203
+2024-06-29 02:25:26,447-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:25:26,517-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:25:26,518-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:25:26,578-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:25:26,578-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:25:26,639-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:25:26,639-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:25:26,699-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:25:26,699-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:25:26,759-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:25:26,760-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:25:26,819-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:25:27,182-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:25:27,182-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:25:33,949-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 02:25:34,451-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 02:25:35,564-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:25:36,554-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 02:25:39,964-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:27:39,887-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:27:40,109-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:27:40,617-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:27:40,828-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21115398406982422
+2024-06-29 02:27:45,478-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:27:45,550-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:27:45,550-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:27:45,612-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:27:45,612-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:27:45,673-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:27:45,674-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:27:45,735-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:27:45,735-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:27:45,796-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:27:45,796-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:27:45,857-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:27:46,220-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:27:46,221-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:27:51,611-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 02:27:52,164-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 02:27:54,064-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:27:54,833-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 02:28:01,571-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:29:23,298-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:29:23,522-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:29:24,023-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:29:24,235-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2112720012664795
+2024-06-29 02:29:28,886-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:29:28,952-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:29:28,952-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:29:29,015-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:29:29,015-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:29:29,077-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:29:29,077-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:29:29,139-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:29:29,139-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:29:29,201-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:29:29,201-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:29:29,262-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:29:29,625-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:29:29,626-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:29:59,977-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:30:00,201-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:30:00,702-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:30:00,914-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21140503883361816
+2024-06-29 02:30:05,571-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:30:05,656-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:30:05,656-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:30:05,718-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:30:05,718-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:30:05,779-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:30:05,779-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:30:05,840-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:30:05,840-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:30:05,901-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:30:05,901-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:30:05,961-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:30:06,325-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:30:06,326-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:30:13,425-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 02:30:13,979-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 02:30:14,662-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:30:15,823-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 02:30:19,809-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:30:48,887-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:30:49,110-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:30:49,615-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:30:49,826-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21092557907104492
+2024-06-29 02:30:54,472-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:30:54,542-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:30:54,542-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:30:54,605-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:30:54,605-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:30:54,666-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:30:54,667-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:30:54,729-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:30:54,729-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:30:54,791-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:30:54,791-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:30:54,853-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:30:55,215-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:30:55,216-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 02:30:59,748-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 02:31:01,677-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 02:31:02,620-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:31:03,388-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 02:31:07,943-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 02:31:21,726-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:31:21,949-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 02:31:22,452-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 02:31:22,664-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21135497093200684
+2024-06-29 02:31:27,320-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 02:31:27,386-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 02:31:27,387-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 02:31:27,448-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 02:31:27,448-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 02:31:27,508-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 02:31:27,509-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 02:31:27,569-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 02:31:27,570-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 02:31:27,630-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 02:31:27,630-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 02:31:27,689-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 02:31:28,052-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 02:31:28,052-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:10:49,216-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:10:49,440-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:11:42,272-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:11:42,493-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:11:58,076-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:11:58,298-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:12:13,174-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:12:13,397-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:14:13,923-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:14:14,146-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:15:07,789-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:15:08,011-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:16:28,609-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:16:28,832-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:16:49,629-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:16:49,851-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:17:47,481-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:17:47,705-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:18:38,616-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:18:38,839-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:19:19,817-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:19:20,039-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:21:44,035-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:21:44,257-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:22:25,449-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:22:25,671-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:22:51,744-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:22:51,962-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:24:21,192-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:24:21,413-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:25:45,884-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:25:46,107-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:26:05,921-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:26:06,143-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:26:25,760-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:26:25,982-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:33:16,803-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:33:17,040-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:33:49,948-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:33:50,171-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:37:02,975-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:37:03,199-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:37:59,899-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:38:00,122-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:39:16,135-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:39:16,358-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:39:16,964-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:39:17,176-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21154165267944336
+2024-06-29 04:39:19,247-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video0不存在
+2024-06-29 04:39:20,248-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video0不存在
+2024-06-29 04:39:21,250-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video0不存在
+2024-06-29 04:39:22,251-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video0不存在
+2024-06-29 04:39:23,252-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video0不存在
+2024-06-29 04:40:06,327-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:40:06,549-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:40:07,055-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:40:07,266-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2112424373626709
+2024-06-29 04:40:11,928-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:40:12,002-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-06-29 04:40:33,762-infer_front.py-[line:123]-INFO-[log]:
+2024-06-29 04:40:33,763-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:40:33,763-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:40:33,831-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:40:33,831-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:40:33,892-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:40:33,893-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:40:33,954-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:40:33,955-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:40:34,015-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:40:34,016-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:40:34,076-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:40:34,440-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:40:34,440-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:40:39,039-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:40:39,414-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:40:39,966-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:40:41,858-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:40:46,616-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:41:28,402-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:41:28,625-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:41:29,131-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:41:29,343-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21167755126953125
+2024-06-29 04:41:33,997-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:41:34,064-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:41:34,065-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:41:34,126-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:41:34,126-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:41:34,187-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:41:34,187-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:41:34,248-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:41:34,249-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:41:34,309-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:41:34,310-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:41:34,369-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:41:34,733-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:41:34,733-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:41:40,363-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:41:40,704-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:41:41,123-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:41:43,402-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:41:48,917-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:43:32,000-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:43:32,223-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:43:32,727-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:43:32,938-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21109700202941895
+2024-06-29 04:43:37,593-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:43:37,662-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:43:37,663-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:43:37,725-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:43:37,725-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:43:37,789-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:43:37,789-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:43:37,853-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:43:37,853-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:43:37,916-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:43:37,917-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:43:37,980-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:43:38,343-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:43:38,343-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:43:46,181-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:43:47,416-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:43:47,969-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:43:49,126-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:43:57,199-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:44:04,932-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-06-29 04:44:04,961-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 04:44:06,001-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 04:44:07,040-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 04:44:08,103-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 04:44:09,132-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 04:44:10,166-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 04:44:11,216-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 04:45:07,455-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:45:07,677-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:45:08,184-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:45:08,395-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2112901210784912
+2024-06-29 04:45:13,050-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:45:13,116-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:45:13,116-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:45:13,177-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:45:13,178-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:45:13,238-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:45:13,238-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:45:13,299-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:45:13,300-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:45:13,360-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:45:13,360-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:45:13,420-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:45:13,783-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:45:13,784-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:45:17,009-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:45:17,472-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:45:17,892-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:45:18,912-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:45:22,614-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-06-29 04:45:23,236-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:45:33,063-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-06-29 04:46:33,835-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:46:34,058-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:46:34,559-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:46:34,770-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2108149528503418
+2024-06-29 04:46:39,421-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:46:39,490-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:46:39,490-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:46:39,554-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:46:39,554-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:46:39,615-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:46:39,615-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:46:39,676-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:46:39,677-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:46:39,737-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:46:39,737-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:46:39,798-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:46:40,162-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:46:40,163-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:46:49,025-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:46:49,533-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:46:50,345-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:46:51,595-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:46:59,709-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:48:30,167-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:48:30,390-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:48:30,893-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:48:31,105-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21163725852966309
+2024-06-29 04:48:35,759-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:48:35,824-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:48:35,825-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:48:35,887-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:48:35,887-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:48:35,949-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:48:35,950-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:48:36,011-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:48:36,011-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:48:36,073-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:48:36,073-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:48:36,136-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:48:36,500-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:48:36,500-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:48:44,636-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:48:45,145-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:48:45,656-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:48:46,207-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:48:50,853-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:51:49,542-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:51:49,766-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:51:50,272-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:51:50,483-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21095037460327148
+2024-06-29 04:51:55,134-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:51:55,201-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:51:55,201-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:51:55,262-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:51:55,262-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:51:55,323-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:51:55,323-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:51:55,384-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:51:55,384-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:51:55,445-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:51:55,445-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:51:55,505-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:51:55,869-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:51:55,869-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:51:59,169-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:51:59,681-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:52:00,191-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:52:00,657-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:52:06,843-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:57:14,687-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:57:14,911-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:57:15,413-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:57:15,624-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2106633186340332
+2024-06-29 04:57:20,282-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:57:20,349-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:57:20,349-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:57:20,413-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:57:20,414-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:57:20,477-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:57:20,478-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:57:20,538-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:57:20,538-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:57:20,599-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:57:20,599-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:57:20,659-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:57:21,023-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:57:21,023-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:57:27,936-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:57:28,359-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:57:28,779-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:57:29,199-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:57:33,412-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:57:49,111-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:57:49,334-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:57:49,839-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:57:50,050-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21109938621520996
+2024-06-29 04:58:46,865-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:58:47,088-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:58:47,587-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:58:47,797-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2107868194580078
+2024-06-29 04:58:52,454-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:58:52,524-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:58:52,524-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:58:52,586-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:58:52,586-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:58:52,646-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:58:52,647-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:58:52,707-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:58:52,708-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:58:52,768-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:58:52,768-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:58:52,828-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:58:53,191-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:58:53,191-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:58:59,409-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:58:59,784-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:59:00,897-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:59:01,318-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 04:59:03,251-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 04:59:38,361-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:59:38,584-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 04:59:39,086-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 04:59:39,298-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21228885650634766
+2024-06-29 04:59:43,958-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 04:59:44,030-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 04:59:44,030-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 04:59:44,096-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 04:59:44,097-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 04:59:44,161-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 04:59:44,161-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 04:59:44,225-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 04:59:44,225-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 04:59:44,288-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 04:59:44,289-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 04:59:44,352-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 04:59:44,716-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 04:59:44,716-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 04:59:55,404-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:59:56,863-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 04:59:58,315-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 04:59:59,774-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:00:15,231-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:00:16,903-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:00:29,275-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:00:55,001-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:00:59,541-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:01:06,326-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:01:10,342-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:01:18,843-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:01:20,685-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:01:32,206-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:01:38,672-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:01:46,034-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:01:50,681-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:01:56,075-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:02:02,782-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:02:25,315-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:02:32,495-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:21:02,113-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-06-29 05:21:02,145-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:03,173-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:04,205-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:05,237-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:06,260-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:07,291-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:08,327-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:09,355-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:10,396-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:11,428-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:12,459-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:13,490-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:14,528-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:15,560-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:16,590-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:17,628-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:18,665-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:19,696-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:20,727-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:21,764-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:22,795-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:23,822-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:24,859-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:25,890-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:26,917-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:27,947-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:28,984-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:30,017-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:31,058-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:32,091-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:33,127-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:34,170-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:35,206-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:36,244-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:37,280-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:38,321-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:39,370-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:40,397-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:41,421-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:42,458-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:43,490-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:44,526-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:45,553-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:46,575-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:47,618-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:48,645-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:49,689-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:50,726-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:51,758-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:52,784-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:53,820-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:54,858-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:55,889-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:56,920-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:57,952-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:21:58,979-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:00,025-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:01,056-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:02,084-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:03,119-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:04,147-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:05,183-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:06,211-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:07,249-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:08,288-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:09,325-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:10,356-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:11,399-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:12,420-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:13,457-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:14,488-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:15,519-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:16,572-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:17,595-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:18,627-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:19,651-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:20,686-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:21,723-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:22,781-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:23,824-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:24,861-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:25,893-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:26,950-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:27,987-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:29,023-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:30,055-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:31,087-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:32,134-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:33,176-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:34,213-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:35,241-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:36,273-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:37,316-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:38,355-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:39,392-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:40,412-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:41,438-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:42,471-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:43,503-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:44,540-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:45,567-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:46,600-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:47,627-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:48,649-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:49,686-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:50,718-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:51,753-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:52,797-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:53,834-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:54,862-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:55,899-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:56,923-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:57,970-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:22:58,998-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:00,059-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:01,091-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:02,117-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:03,176-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:04,212-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:05,239-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:06,272-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:07,304-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:08,344-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:09,380-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:10,412-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:11,438-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:12,466-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:13,498-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:14,531-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:15,564-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:16,594-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:23:17,627-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-29 05:24:06,721-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:24:06,945-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:24:07,450-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:24:07,661-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21069788932800293
+2024-06-29 05:24:12,318-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:24:12,387-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:24:12,387-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:24:12,447-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:24:12,448-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:24:12,508-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:24:12,509-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:24:12,569-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:24:12,569-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:24:12,629-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:24:12,629-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:24:12,689-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:24:13,052-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:24:13,053-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:24:27,387-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:24:28,028-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:24:28,672-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:24:29,354-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:24:34,715-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:24:40,668-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:24:42,944-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:26:10,364-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:26:10,587-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:26:11,086-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:26:11,297-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21109890937805176
+2024-06-29 05:26:15,950-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:26:16,038-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:26:16,039-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:26:16,099-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:26:16,099-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:26:16,159-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:26:16,160-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:26:16,219-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:26:16,220-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:26:16,280-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:26:16,280-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:26:16,340-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:26:16,703-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:26:16,703-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:26:19,510-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:26:19,930-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:26:20,395-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:26:20,815-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:26:22,729-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:26:57,016-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:26:57,239-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:26:57,742-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:26:57,953-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21164917945861816
+2024-06-29 05:27:02,617-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:27:02,704-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:27:02,705-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:27:02,768-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:27:02,768-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:27:02,829-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:27:02,829-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:27:02,890-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:27:02,891-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:27:02,951-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:27:02,951-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:27:03,012-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:27:03,376-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:27:03,376-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:27:06,021-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:27:06,526-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:27:06,991-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:27:07,450-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:27:09,421-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:27:37,880-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:27:38,102-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:27:38,605-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:27:38,816-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21157097816467285
+2024-06-29 05:27:43,482-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:27:43,548-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:27:43,549-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:27:43,612-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:27:43,612-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:27:43,675-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:27:43,676-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:27:43,739-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:27:43,740-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:27:43,799-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:27:43,800-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:27:43,859-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:27:44,222-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:27:44,223-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:27:50,720-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:27:52,050-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:27:52,635-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:27:53,231-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:27:57,426-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:34:58,672-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:34:58,895-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:34:59,402-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:34:59,612-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21059703826904297
+2024-06-29 05:35:04,278-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:35:04,347-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:35:04,348-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:35:04,408-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:35:04,409-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:35:04,469-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:35:04,469-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:35:04,529-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:35:04,530-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:35:04,589-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:35:04,589-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:35:04,647-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:35:05,011-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:35:05,011-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:35:12,548-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:35:13,016-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:35:13,525-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:35:13,992-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:35:19,609-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:36:11,277-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:36:11,496-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:36:12,003-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:36:12,214-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2113175392150879
+2024-06-29 05:36:16,870-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:36:16,938-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:36:16,938-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:36:16,999-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:36:17,000-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:36:17,060-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:36:17,060-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:36:17,120-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:36:17,121-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:36:17,181-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:36:17,182-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:36:17,241-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:36:17,604-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:36:17,604-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:36:23,363-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:36:23,873-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:36:24,293-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:36:24,714-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:36:29,524-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:37:18,256-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:37:18,479-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:37:18,983-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:37:19,195-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21258234977722168
+2024-06-29 05:37:23,849-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:37:23,924-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:37:23,924-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:37:23,986-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:37:23,986-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:37:24,047-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:37:24,047-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:37:24,108-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:37:24,109-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:37:24,169-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:37:24,169-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:37:24,229-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:37:24,594-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:37:24,594-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:37:26,840-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:37:27,260-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:37:27,725-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:37:28,234-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:37:37,870-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:37:59,019-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:37:59,242-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:37:59,751-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:37:59,962-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21091723442077637
+2024-06-29 05:38:04,619-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:38:04,690-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:38:04,691-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:38:04,760-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:38:04,761-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:38:04,822-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:38:04,822-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:38:04,883-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:38:04,883-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:38:04,944-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:38:04,944-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:38:05,005-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:38:05,368-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:38:05,369-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:38:07,743-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:38:08,554-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:38:09,108-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:38:09,616-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:38:14,436-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:38:56,314-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:38:56,537-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:38:57,041-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:38:57,252-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.210921049118042
+2024-06-29 05:39:01,911-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:39:01,977-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:39:01,977-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:39:02,038-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:39:02,039-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:39:02,100-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:39:02,100-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:39:02,161-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:39:02,161-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:39:02,222-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:39:02,223-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:39:02,283-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:39:02,646-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:39:02,647-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:39:09,463-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:39:09,929-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:39:10,394-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:39:10,859-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:39:13,785-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:39:22,660-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:39:27,488-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:39:27,954-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 05:39:32,747-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:43:19,106-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:43:19,329-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:43:46,330-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:43:46,552-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:44:30,326-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:44:30,549-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:47:22,459-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:47:22,681-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:49:54,850-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:49:55,073-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:50:19,937-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:50:20,161-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:50:42,276-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:50:42,498-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:52:04,284-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:52:04,507-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:52:42,603-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:52:42,825-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:53:54,913-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:53:55,136-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:54:24,903-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:54:25,125-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:58:28,787-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:58:29,011-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:58:29,519-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:58:29,730-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21059513092041016
+2024-06-29 05:58:34,390-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:58:34,460-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:58:34,460-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:58:34,523-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:58:34,523-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:58:34,584-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:58:34,584-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:58:34,644-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:58:34,644-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:58:34,703-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:58:34,704-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:58:34,762-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:58:35,126-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:58:35,126-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:59:45,384-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:59:45,607-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 05:59:46,111-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 05:59:46,323-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21135663986206055
+2024-06-29 05:59:50,979-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 05:59:51,049-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 05:59:51,049-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 05:59:51,112-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 05:59:51,113-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 05:59:51,176-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 05:59:51,176-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 05:59:51,239-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 05:59:51,239-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 05:59:51,302-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 05:59:51,302-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 05:59:51,362-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 05:59:51,725-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 05:59:51,726-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 05:59:57,378-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 05:59:57,970-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 05:59:58,693-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 05:59:59,416-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:00:00,140-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:00:05,217-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:00:12,555-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:09:30,606-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:09:30,831-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:09:31,333-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 06:09:31,545-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21117758750915527
+2024-06-29 06:09:36,198-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 06:09:36,271-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 06:09:36,271-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 06:09:36,337-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 06:09:36,337-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 06:09:36,401-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 06:09:36,401-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 06:09:36,465-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 06:09:36,466-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 06:09:36,529-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 06:09:36,529-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 06:09:36,592-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 06:09:36,955-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 06:09:36,955-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 06:09:44,163-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:09:44,714-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 06:09:45,913-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:09:46,637-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:09:54,465-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:11:17,538-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:11:17,761-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:11:18,267-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 06:11:18,478-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21137142181396484
+2024-06-29 06:11:23,137-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 06:11:23,205-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 06:11:23,205-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 06:11:23,270-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 06:11:23,270-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 06:11:23,336-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 06:11:23,336-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 06:11:23,400-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 06:11:23,400-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 06:11:23,464-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 06:11:23,464-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 06:11:23,527-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 06:11:23,890-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 06:11:23,891-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 06:11:24,748-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:11:25,431-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 06:11:26,072-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:11:32,180-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:11:38,758-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:11:45,090-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:11:52,789-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:12:23,592-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:12:23,816-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:12:24,318-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 06:12:24,529-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21086883544921875
+2024-06-29 06:12:29,178-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 06:12:29,244-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 06:12:29,244-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 06:12:29,306-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 06:12:29,306-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 06:12:29,368-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 06:12:29,368-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 06:12:29,430-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 06:12:29,430-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 06:12:29,491-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 06:12:29,491-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 06:12:29,552-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 06:12:29,916-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 06:12:29,916-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 06:12:32,852-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:12:33,482-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 06:12:34,206-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:12:35,147-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:12:48,098-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:16:14,662-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:16:14,885-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:16:15,386-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 06:16:15,597-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2108144760131836
+2024-06-29 06:16:20,251-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 06:16:20,317-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 06:16:20,318-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 06:16:20,378-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 06:16:20,379-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 06:16:20,439-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 06:16:20,440-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 06:16:20,500-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 06:16:20,500-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 06:16:20,560-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 06:16:20,561-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 06:16:20,620-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 06:16:20,984-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 06:16:20,984-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 06:16:22,755-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:16:23,308-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 06:16:23,816-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:16:24,323-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:20:29,204-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:20:29,428-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:20:30,108-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 06:20:30,321-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2129807472229004
+2024-06-29 06:20:34,992-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 06:20:35,069-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-06-29 06:20:56,705-infer_front.py-[line:123]-INFO-[log]:
+2024-06-29 06:20:56,706-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 06:20:56,707-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 06:20:56,778-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 06:20:56,779-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 06:20:56,846-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 06:20:56,847-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 06:20:56,914-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 06:20:56,914-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 06:20:56,980-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 06:20:56,981-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 06:20:57,047-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 06:20:57,410-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 06:20:57,411-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 06:21:02,244-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:21:02,666-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 06:21:03,086-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:21:03,508-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:23:23,428-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:23:23,651-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:23:24,153-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 06:23:24,365-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21135330200195312
+2024-06-29 06:23:29,024-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 06:23:29,095-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 06:23:29,096-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 06:23:29,163-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 06:23:29,163-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 06:23:29,230-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 06:23:29,231-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 06:23:29,298-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 06:23:29,298-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 06:23:29,364-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 06:23:29,364-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 06:23:29,429-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 06:23:29,793-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 06:23:29,793-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 06:23:44,267-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:23:44,819-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 06:23:45,328-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:23:45,794-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:24:04,560-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:24:53,141-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:24:53,365-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:24:53,867-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 06:24:54,078-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21110296249389648
+2024-06-29 06:24:58,733-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 06:24:58,801-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 06:24:58,801-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 06:24:58,862-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 06:24:58,863-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 06:24:58,926-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 06:24:58,927-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 06:24:58,988-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 06:24:58,988-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 06:24:59,048-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 06:24:59,048-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 06:24:59,108-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 06:24:59,471-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 06:24:59,471-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 06:25:07,444-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:25:07,954-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 06:25:08,420-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:25:08,840-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:25:32,355-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:26:06,535-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:26:06,758-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 06:26:07,261-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 06:26:07,472-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21142053604125977
+2024-06-29 06:26:12,130-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 06:26:12,198-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 06:26:12,198-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 06:26:12,262-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 06:26:12,262-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 06:26:12,325-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 06:26:12,325-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 06:26:12,389-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 06:26:12,389-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 06:26:12,452-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 06:26:12,452-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 06:26:12,514-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 06:26:12,877-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 06:26:12,878-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 06:26:51,451-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 06:26:51,871-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 06:26:52,378-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:26:52,844-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:27:17,142-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 06:27:41,012-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 06:28:07,632-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:43:10,245-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:43:10,469-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:43:11,149-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:43:11,360-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21097326278686523
+2024-06-29 22:43:16,032-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:43:16,110-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-06-29 22:43:37,912-infer_front.py-[line:123]-INFO-[log]:
+2024-06-29 22:43:37,913-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:43:37,913-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:43:37,987-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:43:37,988-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:43:38,054-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:43:38,054-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:43:38,120-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:43:38,121-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:43:38,187-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:43:38,187-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:43:38,253-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:43:38,617-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:43:38,618-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:43:46,812-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:43:47,321-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:43:47,786-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:43:48,207-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 22:43:55,949-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:44:15,449-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:44:15,672-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:44:16,175-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:44:16,387-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21250629425048828
+2024-06-29 22:44:21,043-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:44:21,115-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:44:21,116-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:44:21,182-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:44:21,183-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:44:21,248-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:44:21,249-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:44:21,316-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:44:21,316-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:44:21,382-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:44:21,382-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:44:21,448-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:44:21,811-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:44:21,811-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:44:33,695-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:44:34,117-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:44:34,582-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:44:35,004-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 22:44:42,360-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:45:07,428-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:45:07,651-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:45:08,152-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:45:08,363-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21104955673217773
+2024-06-29 22:45:13,018-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:45:13,088-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:45:13,088-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:45:13,155-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:45:13,155-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:45:13,221-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:45:13,221-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:45:13,287-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:45:13,287-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:45:13,353-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:45:13,353-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:45:13,418-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:45:13,782-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:45:13,783-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:45:20,013-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:45:20,477-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:45:20,939-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:45:21,360-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 22:45:30,026-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:45:45,561-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:45:45,785-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:45:46,292-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:45:46,503-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21082854270935059
+2024-06-29 22:45:51,155-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:45:51,232-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:45:51,232-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:45:51,301-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:45:51,301-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:45:51,367-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:45:51,368-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:45:51,434-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:45:51,435-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:45:51,500-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:45:51,500-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:45:51,565-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:45:51,929-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:45:51,929-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:46:01,264-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:46:01,729-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:46:02,149-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:46:02,569-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 22:46:10,305-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:46:43,415-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:46:43,639-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:46:44,139-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:46:44,350-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21032047271728516
+2024-06-29 22:46:49,007-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:46:49,100-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:46:49,101-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:46:49,167-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:46:49,167-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:46:49,234-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:46:49,235-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:46:49,300-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:46:49,300-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:46:49,365-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:46:49,365-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:46:49,430-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:46:49,794-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:46:49,794-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:47:03,535-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:47:03,958-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:47:04,380-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:47:04,801-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 22:47:15,068-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:52:24,411-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:52:24,633-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:52:25,135-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:52:25,346-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21143174171447754
+2024-06-29 22:52:30,007-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:52:30,074-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:52:30,075-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:52:30,135-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:52:30,135-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:52:30,196-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:52:30,196-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:52:30,256-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:52:30,256-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:52:30,315-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:52:30,315-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:52:30,374-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:52:30,737-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:52:30,738-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:52:36,295-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:52:36,761-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:52:37,270-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:52:37,691-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 22:52:45,497-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:53:02,962-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:53:03,186-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:53:03,689-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:53:03,900-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21073102951049805
+2024-06-29 22:53:08,554-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:53:08,637-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:53:08,638-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:53:08,701-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:53:08,701-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:53:08,764-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:53:08,764-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:53:08,826-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:53:08,827-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:53:08,886-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:53:08,886-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:53:08,945-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:53:09,308-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:53:09,309-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:53:19,704-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:53:20,126-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:53:20,546-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:53:31,332-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 22:53:38,986-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:53:48,172-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:53:48,395-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:53:48,896-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:53:49,107-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21056270599365234
+2024-06-29 22:53:53,758-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:53:53,826-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:53:53,826-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:53:53,887-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:53:53,888-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:53:53,948-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:53:53,948-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:53:54,009-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:53:54,009-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:53:54,069-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:53:54,069-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:53:54,130-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:53:54,494-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:53:54,494-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:54:05,027-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:54:05,249-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:54:05,753-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:54:05,963-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21055316925048828
+2024-06-29 22:54:10,615-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:54:10,688-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:54:10,688-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:54:10,750-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:54:10,750-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:54:10,811-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:54:10,812-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:54:10,873-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:54:10,874-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:54:10,934-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:54:10,934-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:54:10,997-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:54:11,360-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:54:11,361-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:54:12,089-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:54:12,720-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:54:13,273-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:54:21,665-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:55:31,329-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:55:31,552-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 22:55:32,054-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 22:55:32,264-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21086835861206055
+2024-06-29 22:55:36,922-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 22:55:36,991-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 22:55:36,991-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 22:55:37,053-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 22:55:37,054-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 22:55:37,118-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 22:55:37,118-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 22:55:37,179-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 22:55:37,179-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 22:55:37,241-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 22:55:37,241-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 22:55:37,302-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 22:55:37,665-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 22:55:37,666-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 22:55:41,200-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 22:55:42,100-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 22:55:42,697-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 22:55:43,251-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 22:55:50,538-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:02:40,880-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:02:41,103-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:02:41,606-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:02:41,817-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21163439750671387
+2024-06-29 23:02:46,481-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:02:46,549-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:02:46,549-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:02:46,610-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:02:46,610-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:02:46,670-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:02:46,670-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:02:46,729-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:02:46,730-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:02:46,790-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:02:46,790-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:02:46,849-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:02:47,212-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:02:47,213-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:03:01,512-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:03:02,065-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:03:02,618-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:03:03,128-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:03:53,197-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:03:53,664-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:03:54,172-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:03:54,637-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:04:05,930-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:04:30,082-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:04:30,672-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:04:31,171-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:04:49,969-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:05:21,520-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:05:31,567-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:08:01,184-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:08:01,407-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:08:01,909-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:08:02,121-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21178269386291504
+2024-06-29 23:08:06,774-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:08:06,838-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:08:06,839-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:08:06,898-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:08:06,899-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:08:06,958-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:08:06,959-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:08:07,019-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:08:07,019-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:08:07,078-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:08:07,079-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:08:07,138-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:08:07,501-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:08:07,502-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:09:20,761-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:09:21,226-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:09:21,685-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:09:23,486-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:09:37,493-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:11:08,486-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:11:08,710-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:11:09,216-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:11:09,427-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21112489700317383
+2024-06-29 23:11:14,087-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:11:14,150-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:11:14,150-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:11:14,210-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:11:14,211-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:11:14,270-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:11:14,270-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:11:14,331-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:11:14,331-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:11:14,390-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:11:14,390-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:11:14,450-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:11:14,813-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:11:14,813-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:11:28,774-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:11:28,999-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:11:29,501-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:11:29,714-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2128446102142334
+2024-06-29 23:11:34,370-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:11:34,436-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:11:34,437-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:11:34,500-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:11:34,500-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:11:34,562-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:11:34,563-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:11:34,626-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:11:34,627-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:11:34,689-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:11:34,690-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:11:34,751-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:11:35,114-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:11:35,114-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:11:41,939-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:11:42,406-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:11:42,871-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:11:43,378-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:11:57,967-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:12:26,034-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:12:26,256-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:12:26,761-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:12:26,972-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21107006072998047
+2024-06-29 23:12:31,632-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:12:31,702-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:12:31,702-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:12:31,766-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:12:31,766-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:12:31,829-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:12:31,829-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:12:31,891-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:12:31,892-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:12:31,953-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:12:31,953-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:12:32,014-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:12:32,378-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:12:32,379-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:12:38,510-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:12:39,149-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:12:39,700-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:12:40,252-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:12:51,723-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:13:30,801-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:13:42,317-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:14:18,742-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:14:29,863-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:15:39,375-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:15:39,599-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:15:40,105-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:15:40,316-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.2113189697265625
+2024-06-29 23:15:44,976-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:15:45,043-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:15:45,043-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:15:45,105-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:15:45,105-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:15:45,166-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:15:45,166-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:15:45,228-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:15:45,228-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:15:45,288-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:15:45,288-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:15:45,348-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:15:45,712-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:15:45,712-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:15:48,688-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:15:49,190-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:15:50,606-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:15:51,117-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:16:16,363-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:37:10,187-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:37:10,410-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:37:11,796-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:37:12,008-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21266937255859375
+2024-06-29 23:37:16,695-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:37:16,799-infer_front.py-[line:149]-INFO-[log]:开启infer_back_end.py脚本, 后台运行中, 请等待
+2024-06-29 23:38:13,935-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:38:14,158-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:38:14,660-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:38:14,871-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21152210235595703
+2024-06-29 23:38:19,532-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:38:19,605-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:38:19,605-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:38:19,672-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:38:19,673-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:38:19,739-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:38:19,740-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:38:19,806-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:38:19,806-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:38:19,871-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:38:19,871-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:38:19,937-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:38:20,302-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:38:20,302-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:38:22,508-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:38:22,972-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:38:23,439-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:38:23,861-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:38:50,593-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:39:17,860-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:39:18,084-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:39:18,588-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:39:18,798-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21070218086242676
+2024-06-29 23:39:23,456-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:39:23,528-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:39:23,529-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:39:23,594-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:39:23,595-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:39:23,660-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:39:23,661-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:39:23,726-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:39:23,726-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:39:23,791-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:39:23,792-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:39:23,857-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:39:24,220-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:39:24,221-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:39:34,512-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:39:34,932-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:39:35,353-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:39:35,818-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:39:58,447-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:41:45,745-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:41:45,967-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:41:46,471-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:41:46,682-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21130132675170898
+2024-06-29 23:41:51,348-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:41:51,416-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:41:51,417-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:41:51,477-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:41:51,477-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:41:51,537-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:41:51,538-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:41:51,597-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:41:51,597-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:41:51,656-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:41:51,656-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:41:51,716-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:41:52,079-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:41:52,079-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:42:00,919-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-06-29 23:42:16,114-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:42:16,338-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:42:16,842-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:42:17,054-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21126151084899902
+2024-06-29 23:42:21,713-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:42:21,783-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:42:21,783-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:42:21,846-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:42:21,846-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:42:21,907-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:42:21,907-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:42:21,969-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:42:21,969-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:42:22,031-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:42:22,031-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:42:22,089-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:42:22,452-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:42:22,453-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:42:30,803-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:42:31,222-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:42:31,689-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:42:32,278-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:42:55,232-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:43:44,672-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:43:44,895-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:43:45,398-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:43:45,610-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21140432357788086
+2024-06-29 23:43:50,264-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:43:50,329-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:43:50,329-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:43:50,390-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:43:50,390-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:43:50,451-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:43:50,451-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:43:50,511-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:43:50,511-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:43:50,571-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:43:50,571-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:43:50,630-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:43:50,997-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:43:50,997-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:44:08,252-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:44:08,672-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:44:09,092-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:44:09,513-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:44:31,109-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:46:02,526-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:46:02,749-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:46:03,252-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:46:03,462-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21065235137939453
+2024-06-29 23:46:08,121-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:46:08,192-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:46:08,192-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:46:08,256-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:46:08,256-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:46:08,319-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:46:08,319-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:46:08,383-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:46:08,383-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:46:08,446-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:46:08,446-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:46:08,508-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:46:08,871-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:46:08,872-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:46:32,211-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:46:32,631-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:46:33,045-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:46:33,423-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:46:57,349-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:47:53,896-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:47:54,118-controller2.py-[line:306]-INFO-[log]:ping:/dev/ttyUSB0 ok, res:b'wh\x04\n'
+2024-06-29 23:47:54,620-vehicle_base2.py-[line:514]-INFO-[log]:mecanum init
+2024-06-29 23:47:54,830-car_wrap.py-[line:145]-INFO-[log]:my car init ok 0.21048545837402344
+2024-06-29 23:47:59,488-infer_front.py-[line:110]-INFO-[log]:lane连接服务器...
+2024-06-29 23:47:59,554-infer_front.py-[line:132]-INFO-[log]:lane连接服务器成功
+2024-06-29 23:47:59,555-infer_front.py-[line:110]-INFO-[log]:front连接服务器...
+2024-06-29 23:47:59,616-infer_front.py-[line:132]-INFO-[log]:front连接服务器成功
+2024-06-29 23:47:59,616-infer_front.py-[line:110]-INFO-[log]:task连接服务器...
+2024-06-29 23:47:59,678-infer_front.py-[line:132]-INFO-[log]:task连接服务器成功
+2024-06-29 23:47:59,678-infer_front.py-[line:110]-INFO-[log]:mot连接服务器...
+2024-06-29 23:47:59,738-infer_front.py-[line:132]-INFO-[log]:mot连接服务器成功
+2024-06-29 23:47:59,739-infer_front.py-[line:110]-INFO-[log]:humattr连接服务器...
+2024-06-29 23:47:59,799-infer_front.py-[line:132]-INFO-[log]:humattr连接服务器成功
+2024-06-29 23:47:59,799-infer_front.py-[line:110]-INFO-[log]:ocr连接服务器...
+2024-06-29 23:47:59,858-infer_front.py-[line:132]-INFO-[log]:ocr连接服务器成功
+2024-06-29 23:48:00,222-car_wrap.py-[line:666]-INFO-[log]:4
+2024-06-29 23:48:00,222-car_wrap.py-[line:669]-INFO-[log]:['grap_block_func', 'all_task', 'lane_test', 'debug']
+2024-06-29 23:48:07,968-car_wrap.py-[line:753]-INFO-[log]:debug
+2024-06-29 23:48:08,691-car_wrap.py-[line:753]-INFO-[log]:lane_test
+2024-06-29 23:48:09,245-car_wrap.py-[line:753]-INFO-[log]:all_task
+2024-06-29 23:48:09,885-car_wrap.py-[line:753]-INFO-[log]:grap_block_func
+2024-06-29 23:48:33,765-car_wrap.py-[line:753]-INFO-[log]:all_task

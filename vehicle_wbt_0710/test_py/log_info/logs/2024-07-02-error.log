@@ -1,0 +1,17 @@
+2024-07-02 04:12:01,154-camera.py-[line:85]-ERROR-[log]:read:读取图像错误!!!!
+2024-07-02 05:25:51,754-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:25:53,115-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:25:54,512-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:25:55,885-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:25:57,218-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:25:58,617-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:00,324-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:02,492-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:04,650-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:06,819-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:08,956-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:11,120-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:13,294-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:15,435-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 05:26:17,394-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-07-02 23:52:10,964-controller2.py-[line:272]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机

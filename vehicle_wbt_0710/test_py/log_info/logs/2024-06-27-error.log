@@ -1,0 +1,15 @@
+2024-06-27 02:20:58,856-controller2.py-[line:273]-ERROR-[log]:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+2024-06-27 04:47:13,626-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:14,628-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:15,630-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:16,631-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:17,633-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:18,635-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:19,637-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:20,639-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:21,641-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:22,643-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:23,645-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:24,647-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:25,649-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在
+2024-06-27 04:47:26,651-camera.py-[line:53]-ERROR-[log]:摄像头/dev/video2不存在

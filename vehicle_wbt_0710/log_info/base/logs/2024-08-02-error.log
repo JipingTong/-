@@ -1,0 +1,20 @@
+2024-08-02 01:30:10,562-camera.py-[line:83]-ERROR-[log]:read:读取图像错误!!!!
+2024-08-02 01:30:10,613-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:11,639-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:12,674-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:13,704-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:14,729-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:15,748-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:16,775-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:17,800-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:18,836-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:19,856-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:20,871-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:21,887-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:22,912-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 01:30:23,939-camera.py-[line:52]-ERROR-[log]:摄像头/dev/video0不存在
+2024-08-02 23:28:55,419-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-08-02 23:28:56,763-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-08-02 23:28:58,583-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-08-02 23:28:59,963-remote_control.py-[line:78]-ERROR-[log]:no bluepad
+2024-08-02 23:29:01,326-remote_control.py-[line:78]-ERROR-[log]:no bluepad
